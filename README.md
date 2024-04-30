@@ -11,7 +11,7 @@ BITS ID     | Name              | GitHub ID
 
 ![GitHub stars](https://img.shields.io/github/stars/SWENGG4Y2024/SWENGG4Y2024Team08)  ![GitHub forks](https://img.shields.io/github/forks/SWENGG4Y2024/SWENGG4Y2024Team08)  ![GitHub pull requests](https://img.shields.io/github/issues-pr/SWENGG4Y2024/SWENGG4Y2024Team08) ![GitHub contributors](https://img.shields.io/github/contributors/SWENGG4Y2024/SWENGG4Y2024Team08)
 
-Amazon TV+ is a subscription-based streaming service providing a wide range of entertainment options, including TV shows, movies, documentaries, and exclusive content. Users can access the platform on any internet-enabled device, and its personalized recommendation system tailors suggestions based on individual viewing habits and preferences.
+Apple TV+ is a subscription-based streaming service providing a wide range of entertainment options, including TV shows, movies, documentaries, and exclusive content. Users can access the platform on any internet-enabled device, and its personalized recommendation system tailors suggestions based on individual viewing habits and preferences.
 
 ## Documents
 ### Stakeholder Document - [Here](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team08/blob/main/Assignment01/Stakeholder.md)
