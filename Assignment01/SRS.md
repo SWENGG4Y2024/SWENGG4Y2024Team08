@@ -219,14 +219,14 @@
 
    -  ### **5.4 Software Quality Attributes**
 
-    - **User Safety:** Ensure user safety by providing clear guidelines for appropriate content and 
-       effective filtering of inappropriate content.
-    - **Content Safety:** Ensure the safety of provided content by preventing malware, viruses, piracy, 
-       and illegal content.
-    - **Platform Safety:** Ensure the safety of the platform by detecting and preventing unauthorized 
-       access and security breaches.
-    - **Data Safety:** Ensure user data safety through protection against unauthorized access, 
-       tampering, and loss.
-    - **Emergency Procedures:** Implement emergency procedures to minimize the impact of 
-       unforeseen events on the service.
-    - **Compliance:** Ensure compliance with relevant safety regulations and standards.
+      - **User Safety:** Ensure user safety by providing clear guidelines for appropriate content and 
+        effective filtering of inappropriate content.
+      - **Content Safety:** Ensure the safety of provided content by preventing malware, viruses, piracy, 
+        and illegal content.
+      - **Platform Safety:** Ensure the safety of the platform by detecting and preventing unauthorized 
+        access and security breaches.
+      - **Data Safety:** Ensure user data safety through protection against unauthorized access, 
+        tampering, and loss.
+      - **Emergency Procedures:** Implement emergency procedures to minimize the impact of 
+        unforeseen events on the service.
+      - **Compliance:** Ensure compliance with relevant safety regulations and standards.
