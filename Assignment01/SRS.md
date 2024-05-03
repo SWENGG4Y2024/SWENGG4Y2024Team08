@@ -93,7 +93,7 @@
       services, such as payment processors and technology vendors.
 
         **characteristics of these user classes could include:**
-          - Subscribers: They may have different levels of technical expertise, but all expect an easyto-use and reliable streaming service that offers a broad range of high-quality content.
+          - Subscribers: They may have different levels of technical expertise, but all expect an easy-to-use and reliable streaming service that offers a broad range of high-quality content.
           - Content Creators: They may have specific technical requirements for video and audio 
           quality, as well as a desire to protect their intellectual property rights and control how 
           their content is distributed.
