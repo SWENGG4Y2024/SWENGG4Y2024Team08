@@ -91,17 +91,18 @@
       platform, such as movie studios, TV networks, and production companies.
       - Business Partners: Companies that collaborate with Apple TV+ to provide complementary 
       services, such as payment processors and technology vendors.
-      **characteristics of these user classes could include:**
-        - Subscribers: They may have different levels of technical expertise, but all expect an easyto-use and reliable streaming service that offers a broad range of high-quality content.
-        - Content Creators: They may have specific technical requirements for video and audio 
-        quality, as well as a desire to protect their intellectual property rights and control how 
-        their content is distributed.
-        - Content Providers: They may have specific contractual requirements and business goals 
-        related to licensing their content to Netflix, such as maximizing revenue and protecting 
-        their brand image.
-        - Business Partners: They may have technical requirements related to integrating their 
-        systems with Netflix's platform, as well as contractual requirements related to payment 
-        schedules and data sharing.
+
+        **characteristics of these user classes could include:**
+          - Subscribers: They may have different levels of technical expertise, but all expect an easyto-use and reliable streaming service that offers a broad range of high-quality content.
+          - Content Creators: They may have specific technical requirements for video and audio 
+          quality, as well as a desire to protect their intellectual property rights and control how 
+          their content is distributed.
+          - Content Providers: They may have specific contractual requirements and business goals 
+          related to licensing their content to Netflix, such as maximizing revenue and protecting 
+          their brand image.
+          - Business Partners: They may have technical requirements related to integrating their 
+          systems with Netflix's platform, as well as contractual requirements related to payment 
+          schedules and data sharing.
 
    -  ### **2.4 Operating Environment**
         - Apple Devices: Compatible with iPhone, iPad, iPod Touch, and Apple TV running iOS 13 or 
