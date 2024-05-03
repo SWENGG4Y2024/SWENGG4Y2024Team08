@@ -58,31 +58,145 @@
 ##  **2. Overall Description**
 
    - ### **2.1 Product Perspective**
+        Apple TV+ is positioned as a premium streaming service offering exclusive content produced or 
+        acquired by Apple Inc. The service aims to compete with other streaming platforms by providing a 
+        curated selection of high-quality movies, TV shows, and documentaries, available for streaming on 
+        various devices.
+
 
    -  ### **2.2 Product Features**
+      - Content Library: Apple TV+ offers a diverse collection of exclusive movies, TV shows, 
+      documentaries, and original content produced or acquired by Apple Inc.
+      - Personalized Recommendations: The service uses algorithms to provide personalized 
+      recommendations to users based on their viewing history, preferences, and ratings.
+      - Multiple Profiles: Users can create multiple profiles under one account, allowing for 
+      personalized viewing history, recommendations, and watchlists for each user.
+      - Offline Viewing: Apple TV+ allows users to download selected content for offline viewing, 
+      enabling them to watch movies and TV shows without an internet connection.
+      - Continuous Playback: The service automatically plays the next episode of a TV series, 
+      facilitating binge-watching sessions for users.
+      - Parental Controls: Apple TV+ offers parental controls to restrict access to age-inappropriate 
+      content and create child-friendly profiles.
+      - Search and Filtering: Users can search for specific titles, actors, or genres, and filter content 
+      based on criteria such as release year and ratings.
+      - Cross-Platform Access: Apple TV+ is accessible on various devices, including iPhone, iPad, 
+      Mac, Apple TV, and selected smart TVs, ensuring seamless streaming across different platforms.
 
    -  ### 2.3 **User Classes and Characteristics**
-
+      - Subscribers: End-users who subscribe to Apple TV+ to access the content and features 
+      offered by the service.
+      - Content Creators: Individuals or companies responsible for creating the content available on 
+      Apple TV+, including movies, TV shows, documentaries, and original programming.
+      - Content Providers: Companies that license content to Apple TV+ for streaming on the 
+      platform, such as movie studios, TV networks, and production companies.
+      - Business Partners: Companies that collaborate with Apple TV+ to provide complementary 
+      services, such as payment processors and technology vendors.
+      **characteristics of these user classes could include:**
+        - Subscribers: They may have different levels of technical expertise, but all expect an easyto-use and reliable streaming service that offers a broad range of high-quality content.
+        - Content Creators: They may have specific technical requirements for video and audio 
+        quality, as well as a desire to protect their intellectual property rights and control how 
+        their content is distributed.
+        - Content Providers: They may have specific contractual requirements and business goals 
+        related to licensing their content to Netflix, such as maximizing revenue and protecting 
+        their brand image.
+        - Business Partners: They may have technical requirements related to integrating their 
+        systems with Netflix's platform, as well as contractual requirements related to payment 
+        schedules and data sharing.
 
    -  ### **2.4 Operating Environment**
-
-
+        - Apple Devices: Compatible with iPhone, iPad, iPod Touch, and Apple TV running iOS 13 or 
+        later, iPadOS 13 or later, and tvOS 13 or later.
+        - Smart TVs: Samsung, LG, Sony, and Vizio, with compatible models released in 2018 or later.
+        - Android Devices: Android 5.0 or later (through the Apple TV app on the Google Play Store).
+        - macOS: macOS Catalina (10.15) or later versions.
    -  ### **2.5 Design and Implementation Constraints**
+        These are the limitations and guidelines that need to be considered during the development of Apple 
+        TV+. Some of the design and implementation constraints are:
+        - Platform Compatibility: Ensure compatibility with iOS, iPadOS, macOS, and tvOS platforms, 
+        following Apple's design guidelines.
+        - Data Security: Prioritize user privacy and security, complying with Apple's privacy policies 
+        and GDPR.
+        - Server Capacity Management: Manage server capacity and network traffic for optimal 
+        performance and scalability to accommodate a large number of concurrent users
+        - Privacy Protection: The service must adhere to privacy regulations and data protection 
+        standards to safeguard user data and ensure compliance with legal requirements.
+        - User Interface Consistency: Maintain a consistent and intuitive interface following Apple's 
+        Human Interface Guidelines.
+        - API Integration: Integrate with Apple services and third-party APIs, adhering to privacy and 
+        security guidelines.
+        - Localization: Support multiple languages and regions, complying with regional content 
+        regulations.
+        - Content Compliance: Adhere to Apple's content guidelines and implement parental controls.
+
  
    -  ### **2.6 User Documentation**
+        User documentation for Apple TV+ includes a range of materials that are designed to help users 
+        understand how to use and get the most out of their Fitbit device and app. Some of them are as 
+        follows:
+        - Getting Started Guide: An introductory guide on how to access and navigate the Apple TV+ 
+        app on various devices.
+        - Account Setup: Instructions for creating or signing in to an Apple ID and subscribing to Apple 
+        TV+.
+        - Troubleshooting: Common issues and solutions for technical problems, such as playback 
+        errors or account issues.
+        - Privacy and Security: Guidelines on how Apple protects user privacy and security while using 
+        Apple TV+.
+        - Help Desk: Contact information and resources for users to get assistance with any issues or 
+        questions they encounter while using the Apple TV+ app.
 
    -  ### **2.7 Assumptions & Dependencies**
-
-
+        **Assumptions:**
+        - Users of Apple TV+ will have reliable internet access to stream content online.
+        - Users will access Apple TV+ on compatible devices, such as iPhone, iPad, Mac, Apple TV, and 
+        select smart TVs.
+        - Users will need to create an account and sign in to access Apple TV+ content, with 
+        appropriate authentication mechanisms in place.
+        - Apple TV+ will have the necessary licenses and agreements in place to make content 
+        available for streaming in target regions.
+        - Apple TV+ will have secure payment processing mechanisms in place for users to subscribe 
+        to the service and make payments for subscription fees.
+        - Content on Apple TV+ will be properly categorized and tagged for easy search and discovery 
+        by users.
+        - Content on Apple TV+ will meet certain quality standards, including resolution, audio quality, 
+        and subtitle availability, to ensure a satisfactory user experience.
+        Dependencies:
+        - Apple TV+ may depend on third-party APIs for secure payment processing and efficient 
+        content delivery.
+        - Apple TV+ may depend on content licensing agreements with studios, production 
+        companies, and other content providers to legally stream their content on the platform.
+        - Apple TV+ may be subject to regional regulations and compliance requirements, such as 
+        content censorship laws, which may impact the availability of certain content in specific regions.
+        - Apple TV+ may depend on reliable and scalable technology infrastructure, including servers, 
+        databases, and networking components, to support its streaming service and handle the large 
+        volume of user requests
+        - Apple TV+ may depend on users' devices to meet certain technical requirements, such as 
+        screen size, resolution, and audio capabilities, to ensure an optimal viewing experience.
+        - Apple TV+ may depend on reliable internet service providers to ensure that users have 
+        sufficient bandwidth and network stability to stream content seamlessly
 
 ## 3. System Features
 
    - ### **3.1 Admin Features**
-
+      The features available to the Admin include:
+      1. Add, delete, or update content such as movies, TV shows, and categories.
+      2. Manage user accounts and subscriptions.
+      3. View transaction details and manage membership packages.
+      4. Monitor and manage feedback and ratings provided by users.
+      5. Validate and verify content based on guidelines and standards.
    - ### **3.2 User Features**
-  
+        The features available to the users (members) are:
+      1. View profile details and subscription status.
+      2. Browse and search for movies and TV shows.
+      3. Watch trailers and previews for upcoming content.
+      4. Add movies and TV shows to watchlists or favorites.
+      5. Rate and review content and provide feedback.
    - ### **3.3 Content Creator Features**
-
+      The features available to content creators (producers, directors, etc.) include:
+      1. Upload and publish original content, such as movies and TV shows.
+      2. Manage metadata and promotional materials for their content.
+      3. Monitor performance metrics, such as views and ratings.
+      4. Engage with users through comments and discussions.
+      5. Receive analytics and insights on audience engagement and preferences.
 ## 4. External Interface Requirements
 
    - ### **4.1 User Interface Requirements**
