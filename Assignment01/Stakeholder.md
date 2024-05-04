@@ -6,27 +6,27 @@
 - [2. Client / Product Owner](#2-client--product-owner)
    - [2.1 Description](#2.1-description)
    - [2.2 Expectations](#2.2-expectations)
-   - [2.3 Stakeholder](#2.3-stakeholder)
+   - [2.3 Stakeholders](#2.3-stakeholders)
 - [3. End Users](#3-end-users)
    - [3.1 Description](#3.1-description)
    - [3.2 Expectations](#3.2-expectations)
-   - [3.3 Stakeholder](#3.3-stakeholder) 
+   - [3.3 Stakeholders](#3.3-stakeholders) 
 - [4. Development Team](#4-development-team)
    - [4.1 Description](#4.1-description)
    - [4.2 Expectations](#4.2-expectations)
-   - [4.3 Stakeholder](#4.3-stakeholder)
+   - [4.3 Stakeholders](#4.3-stakeholders)
 - [5. Quality Assurance (QA) Team](#5-quality-assurance-qa-team)
    - [5.1 Description](#5.1-description)
    - [5.2 Expectations](#5.2-expectations)
-   - [5.3 Stakeholder](#5.3-stakeholder)
+   - [5.3 Stakeholders](#5.3-stakeholders)
 - [6. Management / Stakeholder Representatives](#6-management--stakeholder-representatives)
    - [6.1 Description](#6.1-description)
    - [6.2 Expectations](#6.2-expectations)
-   - [6.3 Stakeholder](#6.3-stakeholder)
+   - [6.3 Stakeholders](#6.3-stakeholders)
 - [7. External Partners / Vendors](#7-external-partners--vendors)
    - [7.1 Description](#7.1-description)
    - [7.2 Expectations](#7.2-expectations)
-   - [7.3 Stakeholder](#7.3-stakeholder)  
+   - [7.3 Stakeholders](#7.3-stakeholders)  
 
 
 ## 1. Introduction
@@ -40,7 +40,7 @@ Here is a list of **Client / Product Owner,End Users, Development Team,Quality A
   
 - **2.2 Interests / Expectations:** The client's primary interest lies in delivering a streaming service that meets users' entertainment needs, aligns with Apple's brand values, and attracts a broad subscriber base. They expect timely content releases, high-quality productions, and effective communication throughout the project.
 
-- **2.3 StakeHolder**
+- **2.3 StakeHolders**
   
    - **Content Acquisition Partners:** Companies and studios providing content for Apple TV+, including production houses, filmmakers, and distributors.
    - **Marketing Partners:** Agencies or teams responsible for promoting Apple TV+ content and service through various channels.
@@ -52,7 +52,7 @@ Here is a list of **Client / Product Owner,End Users, Development Team,Quality A
   
 - **3.2 Interests / Needs:** End users prioritize seamless access to a diverse range of original and exclusive content, a user-friendly interface across devices, and high-quality streaming experiences. They expect engaging storytelling, innovative features, and seamless integration with Apple devices and services.
 
- - **3.3 StakeHolder**
+ - **3.3 StakeHolders**
  
    - **Focus Groups:** Groups of users providing feedback on content preferences, user interface design, and overall user experience.
    - **Accessibility Advocates:** Organizations or individuals advocating for accessible design and features for users with disabilities.
@@ -64,7 +64,7 @@ Here is a list of **Client / Product Owner,End Users, Development Team,Quality A
   
 - **4.2 Interests / Goals:** The development team aims to produce compelling original content, enhance platform features, and optimize user experience across devices. They prioritize collaboration, innovation, and continuous improvement to meet user expectations and maintain Apple's reputation for excellence.
 
-- **4.3 StakeHolder**
+- **4.3 StakeHolders**
  
    - **Content Creators:** Writers, directors, producers, and artists creating original content for Apple TV+, contributing to the platform's unique offerings.
    - **User Experience (UX) Researchers:** Professionals conducting user research and usability testing to inform design decisions and improve user satisfaction.
@@ -76,7 +76,7 @@ Here is a list of **Client / Product Owner,End Users, Development Team,Quality A
   
 - **5.2 Interests / Objectives:** The QA team's objective is to identify and address any issues or defects in content delivery, streaming quality, and user experience. They strive to maintain high-quality standards, enhance platform reliability, and ensure customer satisfaction.
 
-- **5.3 StakeHolder**
+- **5.3 StakeHolders**
   
    - **Beta Testers:** Early adopters and enthusiasts participating in beta testing programs to identify bugs, provide feedback, and improve overall product quality.
    - **Accessibility Testers:** Individuals with disabilities or accessibility experts testing the platform's accessibility features and providing feedback for improvement.
@@ -88,7 +88,7 @@ Here is a list of **Client / Product Owner,End Users, Development Team,Quality A
   
 - **6.2 Interests / Concerns:** Management is interested in ensuring Apple TV+ aligns with Apple's broader business objectives, enhances brand value, and generates revenue. They are concerned with market competitiveness, content acquisition, subscriber growth, and strategic partnerships.
 
-- **6.3 StakeHolder**
+- **6.3 StakeHolders**
    - **Investors:** Shareholders and financial backers interested in the profitability and growth potential of Apple TV+ as part of Apple's overall business portfolio.
    - **Regulatory Compliance Officers:** Professionals ensuring compliance with industry regulations, content rating standards, and data protection laws.
    - **Strategic Partnership Managers:** Individuals responsible for establishing and managing partnerships with content providers, technology vendors, and other key stakeholders.
@@ -99,7 +99,7 @@ Here is a list of **Client / Product Owner,End Users, Development Team,Quality A
   
 - **7.2 Interests / Collaboration:** External partners aim to foster successful collaborations with Apple, deliver high-quality content and services, and achieve mutual business objectives. They contribute expertise, resources, and creativity to enhance Apple TV+ offerings and user experience.
 
-- **7.3 StakeHolder**
+- **7.3 StakeHolders**
   
    - **Content Production Studios:** Studios producing original content exclusively for Apple TV+, including movies, series, documentaries, and other programming.
    - **Technology Providers:** Companies offering streaming technology, content management systems, and analytics solutions to support Apple TV+ operations.
