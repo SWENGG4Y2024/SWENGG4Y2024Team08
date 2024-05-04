@@ -2,37 +2,38 @@
 
 ## Table of Contents
 
-- [1 Introduction](#1.Introdcution)
-- [2. Client / Product Owner](#2.Client/Product Owner)
-      - [2.1 Description](#2.1Description)
-      - [2.2 Expectations](#2.2Expectations)
-      - [2.3 Stakeholder](#2.3StakeHolder)
-- [3.End Users](#3.End Users)
-      - [3.1 Description](#3.1Description)
-      - [3.2 Expectations](#3.2Expectations)
-      - [3.3 Stakeholder](#3.3StakeHolder) 
-- [4.Development Team](#4.Development Team)
-      - [4.1 Description](#4.1Description)
-      - [4.2 Expectations](#4.2Expectations)
-      - [4.3 Stakeholder](#4.3StakeHolder)
-- [5.Quality Assurance (QA) Team](#5.Quality Assurance (QA) Team)
-      - [5.1 Description](#5.1Description)
-      - [5.2 Expectations](#5.2Expectations)
-      - [5.3 Stakeholder](#5.3StakeHolder)
-- [6.Management / Stakeholder Representatives](#6.Management / Stakeholder Representatives)
-      - [6.1 Description](#6.1Description)
-      - [6.2 Expectations](#6.2Expectations)
-      - [6.3 Stakeholder](#6.3StakeHolder)
-- [External Partners / Vendors](#7.External Partners / Vendors)
-      - [7.1 Description](#7.1Description)
-      - [7.2 Expectations](#7.2Expectations)
-      - [7.3 Stakeholder](#7.3StakeHolder) 
+- [1. Introduction](#1-introduction)
+- [2. Client / Product Owner](#2-client--product-owner)
+   - [2.1 Description](#2.1-description)
+   - [2.2 Expectations](#2.2-expectations)
+   - [2.3 Stakeholder](#2.3-stakeholder)
+- [3. End Users](#3-end-users)
+   - [3.1 Description](#3.1-description)
+   - [3.2 Expectations](#3.2-expectations)
+   - [3.3 Stakeholder](#3.3-stakeholder) 
+- [4. Development Team](#4-development-team)
+   - [4.1 Description](#4.1-description)
+   - [4.2 Expectations](#4.2-expectations)
+   - [4.3 Stakeholder](#4.3-stakeholder)
+- [5. Quality Assurance (QA) Team](#5-quality-assurance-qa-team)
+   - [5.1 Description](#5.1-description)
+   - [5.2 Expectations](#5.2-expectations)
+   - [5.3 Stakeholder](#5.3-stakeholder)
+- [6. Management / Stakeholder Representatives](#6-management--stakeholder-representatives)
+   - [6.1 Description](#6.1-description)
+   - [6.2 Expectations](#6.2-expectations)
+   - [6.3 Stakeholder](#6.3-stakeholder)
+- [7. External Partners / Vendors](#7-external-partners--vendors)
+   - [7.1 Description](#7.1-description)
+   - [7.2 Expectations](#7.2-expectations)
+   - [7.3 Stakeholder](#7.3-stakeholder)  
+
 
 ## 1. Introduction
 For successful software development, a comprehensive discovery process is crucial. This process establishes the project's requirements and sets the foundation for success or failure. Engaging all stakeholders from the outset is the most significant step developers can take to achieve success.
 Here is a list of **Client / Product Owner,End Users, Development Team,Quality Assurance (QA) Team, Management / Stakeholder Representatives,External Partners / Vendors** for Apple Tv+
 
-## 2. Client / Product Owner:
+## 2. Client / Product Owner
 
 - **2.1 Description:** Represents the entity commissioning the Apple TV+ service, ensuring alignment with organizational goals and providing requirements and feedback.
   
@@ -44,7 +45,7 @@ Here is a list of **Client / Product Owner,End Users, Development Team,Quality A
    - **Marketing Partners:** Agencies or teams responsible for promoting Apple TV+ content and service through various channels.
    - **Legal Advisors:** Legal experts ensuring compliance with content licensing agreements, copyright laws, and regulatory requirements.
 
-## 3. End Users:
+## 3. End Users
 
 - **3.1 Description:** End users of Apple TV+ are individuals worldwide seeking high-quality entertainment content accessible through the Apple ecosystem.
   
@@ -56,7 +57,7 @@ Here is a list of **Client / Product Owner,End Users, Development Team,Quality A
    - **Accessibility Advocates:** Organizations or individuals advocating for accessible design and features for users with disabilities.
    - **Privacy Advocates:** Groups ensuring user data protection and privacy considerations in content recommendation algorithms and user profiling.
 
-## 4. Development Team:
+## 4. Development Team
 
 - **4.1 Description:** The development team comprises software engineers, designers, and content creators responsible for creating and maintaining Apple TV+ content and platform.
   
@@ -68,7 +69,7 @@ Here is a list of **Client / Product Owner,End Users, Development Team,Quality A
    - **User Experience (UX) Researchers:** Professionals conducting user research and usability testing to inform design decisions and improve user satisfaction.
    - **Technology Partners:** Companies providing streaming technology, cloud infrastructure, and other technical solutions to support Apple TV+ operations.
 
-## 5. Quality Assurance (QA) Team:
+## 5. Quality Assurance (QA) Team
 
 - **5.1 Description:** The QA team ensures the quality, reliability, and performance of Apple TV+ content and platform through rigorous testing and validation processes.
   
@@ -80,7 +81,7 @@ Here is a list of **Client / Product Owner,End Users, Development Team,Quality A
    - **Accessibility Testers:** Individuals with disabilities or accessibility experts testing the platform's accessibility features and providing feedback for improvement.
    - **Performance Testers:** Professionals testing the platform's performance under various load conditions to ensure scalability and reliability.
 
-## 6. Management / Stakeholder Representatives:
+## 6. Management / Stakeholder Representatives
 
 - **6.1 Description:** Management or stakeholder representatives provide oversight, guidance, and strategic direction for Apple TV+.
   
@@ -91,7 +92,7 @@ Here is a list of **Client / Product Owner,End Users, Development Team,Quality A
    - **Regulatory Compliance Officers:** Professionals ensuring compliance with industry regulations, content rating standards, and data protection laws.
    - **Strategic Partnership Managers:** Individuals responsible for establishing and managing partnerships with content providers, technology vendors, and other key stakeholders.
 
-## 7. External Partners / Vendors:
+## 7. External Partners / Vendors
 
 - **7.1 Description:** External partners and vendors collaborate with Apple to provide content, technology, and services for Apple TV+.
   
