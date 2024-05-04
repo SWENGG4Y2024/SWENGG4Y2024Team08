@@ -31,6 +31,7 @@
 
 ## 1. Introduction
 For successful software development, a comprehensive discovery process is crucial. This process establishes the project's requirements and sets the foundation for success or failure. Engaging all stakeholders from the outset is the most significant step developers can take to achieve success.
+
 Here is a list of **Client / Product Owner,End Users, Development Team,Quality Assurance (QA) Team, Management / Stakeholder Representatives,External Partners / Vendors** for Apple Tv+
 
 ## 2. Client / Product Owner
