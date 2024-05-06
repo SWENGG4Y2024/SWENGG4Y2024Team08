@@ -2,13 +2,13 @@
  
 ## System functionality
  
-	- **Streaming:** The system must seamlessly deliver high-quality video content to users across diverse devices and networks.
-	- **Search and Discovery:** Users should effortlessly explore and find relevant content through an intuitive interface tailored to their preferences and viewing history.
-	- **Personalization:** Tailored recommendations based on user viewing habits, ratings, and preferences should enhance the viewing experience.
-	- **User Management:** Users should have the ability to create and manage profiles, customize preferences, and access account information.
-	- **Content Management:** A robust content management system should empower providers to efficiently upload and manage content on the platform.
-	- **Security and Privacy:** The system must implement rigorous measures to protect user data, including personal information, viewing history, and payment details.
-	- **Performance and Scalability:** The system must maintain robust performance under heavy loads, supporting numerous concurrent users with consistent availability, reliability, and scalability.
+- **Streaming:** The system must seamlessly deliver high-quality video content to users across diverse devices and networks.
+- **Search and Discovery:** Users should effortlessly explore and find relevant content through an intuitive interface tailored to their preferences and viewing history.
+- **Personalization:** Tailored recommendations based on user viewing habits, ratings, and preferences should enhance the viewing experience.
+- **User Management:** Users should have the ability to create and manage profiles, customize preferences, and access account information.
+- **Content Management:** A robust content management system should empower providers to efficiently upload and manage content on the platform.
+- **Security and Privacy:** The system must implement rigorous measures to protect user data, including personal information, viewing history, and payment details.
+- **Performance and Scalability:** The system must maintain robust performance under heavy loads, supporting numerous concurrent users with consistent availability, reliability, and scalability.
  
  
 ## Objectives:
@@ -40,28 +40,28 @@ Apple TV+ operates within the dynamic landscape of the online streaming industry
 ## User Requirements for Apple TV+ Application:
  
 **1. Functionality:**
-	   - Search and browse movies and TV shows by title, genre, and actors.
-	   - Manage personal profiles, including rating and reviewing content.
-	   - Add content to a watchlist and resume watching from where left off.
+  - Search and browse movies and TV shows by title, genre, and actors.
+  - Manage personal profiles, including rating and reviewing content.
+  - Add content to a watchlist and resume watching from where left off.
  
 **2. Usability:**
-	   - Intuitive interface with quick loading and responsiveness.
- 	  - Seamless performance across devices (smartphones, tablets, smart TVs).
- 	  - Customizable viewing experience (subtitle/audio settings) and tailored recommendations.
+  - Intuitive interface with quick loading and responsiveness.
+  - Seamless performance across devices (smartphones, tablets, smart TVs).
+  - Customizable viewing experience (subtitle/audio settings) and tailored recommendations.
  
 **3. Reliability:**
- 	  - 24/7 availability without interruptions.
-	   - Ability to handle large user traffic without slowdowns or crashes.
-	   - Security measures to protect personal and payment information.
+  - 24/7 availability without interruptions.
+  - Ability to handle large user traffic without slowdowns or crashes.
+  - Security measures to protect personal and payment information.
  
 **4. Performance:**
-	   - High-quality video streaming with minimal buffering.
-	   - Optimization of video quality based on internet speed and device capabilities.
-	   - Support for high-resolution formats (e.g., 4K, HDR).
+  - High-quality video streaming with minimal buffering.
+  - Optimization of video quality based on internet speed and device capabilities.
+  - Support for high-resolution formats (e.g., 4K, HDR).
  
 **5. Supportability:**
-	   - Clear user documentation and accessible customer support (email, chat).
-	   - Regular software updates for bug fixes and feature enhancements.
+  - Clear user documentation and accessible customer support (email, chat).
+  - Regular software updates for bug fixes and feature enhancements.
  
  
 
