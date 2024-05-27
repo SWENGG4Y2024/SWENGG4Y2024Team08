@@ -132,7 +132,7 @@
  
    -  ### **2.6 User Documentation**
         User documentation for Apple TV+ includes a range of materials that are designed to help users 
-        understand how to use and get the most out of their Fitbit device and app. Some of them are as 
+        understand how to use and get the most out of their application. Some of them are as 
         follows:
         - Getting Started Guide: An introductory guide on how to access and navigate the Apple TV+ 
         app on various devices.
