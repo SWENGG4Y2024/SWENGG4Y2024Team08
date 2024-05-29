@@ -98,10 +98,10 @@
           quality, as well as a desire to protect their intellectual property rights and control how 
           their content is distributed.
           - Content Providers: They may have specific contractual requirements and business goals 
-          related to licensing their content to Netflix, such as maximizing revenue and protecting 
+          related to licensing their content to Apple TV+, such as maximizing revenue and protecting 
           their brand image.
           - Business Partners: They may have technical requirements related to integrating their 
-          systems with Netflix's platform, as well as contractual requirements related to payment 
+          systems with Apple TV+'s platform, as well as contractual requirements related to payment 
           schedules and data sharing.
 
    -  ### **2.4 Operating Environment**
@@ -132,7 +132,7 @@
  
    -  ### **2.6 User Documentation**
         User documentation for Apple TV+ includes a range of materials that are designed to help users 
-        understand how to use and get the most out of their Fitbit device and app. Some of them are as 
+        understand how to use and get the most out of their application. Some of them are as 
         follows:
         - Getting Started Guide: An introductory guide on how to access and navigate the Apple TV+ 
         app on various devices.
