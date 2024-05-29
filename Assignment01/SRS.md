@@ -98,10 +98,10 @@
           quality, as well as a desire to protect their intellectual property rights and control how 
           their content is distributed.
           - Content Providers: They may have specific contractual requirements and business goals 
-          related to licensing their content to Netflix, such as maximizing revenue and protecting 
+          related to licensing their content to Apple TV+, such as maximizing revenue and protecting 
           their brand image.
           - Business Partners: They may have technical requirements related to integrating their 
-          systems with Netflix's platform, as well as contractual requirements related to payment 
+          systems with Apple TV+'s platform, as well as contractual requirements related to payment 
           schedules and data sharing.
 
    -  ### **2.4 Operating Environment**
