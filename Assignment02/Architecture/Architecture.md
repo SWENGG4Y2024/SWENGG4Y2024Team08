@@ -4,11 +4,14 @@ The C4 model is a helpful way to visually show and explain how software systems 
 ## System Context Diagram for Apple TV+ Architecture:
 The System Context Diagram for Apple TV+ Architecture provides an overarching depiction of the platform and its interconnectedness with external entities. At its core, Apple TV+ is represented as a central entity surrounded by various external dependencies, including users, devices, and other systems. This diagram offers a comprehensive view of how Apple TV+ interfaces with its environment, facilitating a better understanding of its place within the broader ecosystem.
 
+![SystemContext](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team08/assets/98115365/2df32425-db5a-4681-abd8-56cb435bdcb6)
+
 
 ## Container Diagram for Apple TV+ Architecture:
 The Container Diagram for Apple TV+ Architecture delves deeper into the high-level software architecture of the platform. It zooms in to showcase the major containers or components that constitute Apple TV+ and their interactions. Each container symbolizes a distinct and deployable unit within the Apple TV+ system, highlighting the modular and scalable nature of its architecture.
 
 
+![ContainerDiagram](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team08/assets/98115365/d4127d1b-4f0a-4457-932e-a852aab9e3c6)
 
 
 
