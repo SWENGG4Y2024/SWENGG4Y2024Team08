@@ -1,0 +1,38 @@
+@startuml 
+title Container Diagram for Apple TV+ System
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+Person(customer, "Viewers", "A subscription holder that can access and view content.")
+
+System_Boundary(sb, "Apple TV+ System") {
+    Container(user_app, "User Application (web/mobile/smart TV app)", "Swift, Kotlin, React Native", "Client applications for delivering the content to viewers.")
+    Container(accountService, "Account Service", "Java, Spring Boot", "Handles user authentication, account & subscription management.")
+    Container(contentDeliveryService, "Content Delivery Service", "Java, Spring Boot", "Serves the APIs for accessing the content & its metadata.")
+    Container(emailService, "Email Service", "Python, Flask", "Sends and dispatches emails.")
+    Container(userService, "User Content Service", "Python, TensorFlow", "Provides user-related content such as recommendations, viewing history, searching, etc.")
+    Container(videoProcessingService, "Video Processing Service", "FFmpeg, AWS Lambda", "Processes and transcodes video content.")
+}
+
+together{
+System_Ext(contentDeliveryNetwork, "Content Delivery Network (CDN)", "Distributes video content globally.")
+System_Ext(emailSystem, "Email System", "External system for sending emails.")
+System_Ext(userDbms, "AWS RDS + iCloud storage", "Stores user profiles, credentials, preferences & viewing history.")
+System_Ext(videoStorage, "Video Storage (AWS S3)", "Stores original and processed video content.")
+}
+
+Rel(customer, user_app, "Accesses & views content")
+Rel(user_app, accountService, "Authenticates users with")
+Rel(user_app, contentDeliveryService, "Makes API calls to")
+Rel(user_app, userService, "Retrieves recommendations and user data from")
+Rel(accountService, emailService, "Manages email communications with")
+Rel(accountService, userDbms, "Fetches and saves user account data to")
+Rel(contentDeliveryService, contentDeliveryNetwork, "Distributes video contents via")
+Rel(contentDeliveryService, videoStorage, "Fetches video contents from")
+Rel(contentDeliveryService, userDbms, "Stores video metadata in")
+Rel(emailService, emailSystem, "Sends emails via")
+Rel(userService, contentDeliveryNetwork, "References video items from")
+Rel(userService, userDbms, "Reads & saves user content data to")
+Rel(videoProcessingService, videoStorage, "Processes and stores video contents in")
+Rel(videoProcessingService, contentDeliveryService, "Provides processed video URLs to")
+
+@enduml
