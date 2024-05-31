@@ -19,7 +19,7 @@
    -  [3.1 Admin Features](#31-admin-features)
    -  [3.2 User Features](#32-user-features)
    -  [3.2 Content Creator Features](#33-trainer-features)
--  [4. External Interface Requirements](#4-external-interface-requirements)
+- [4. Functional Requirements](#4-Functional-Requirements)
    -  [4.1 User Interface Requirements](#41-user-interface-requirements)
    -  [4.2 Hardware Interface Requirements](#42-hardware-interface-requirements)
    -  [4.3 Software Interface Requirements](#43-software-interface-requirements)
@@ -198,7 +198,8 @@
       3. Monitor performance metrics, such as views and ratings.
       4. Engage with users through comments and discussions.
       5. Receive analytics and insights on audience engagement and preferences.
-## 4. External Interface Requirements
+         
+## 4.Functional Requirements
  
    - ### **4.1 User Interface Requirements**
  
@@ -345,5 +346,3 @@
       - **Emergency Procedures:** Implement emergency procedures to minimize the impact of
         unforeseen events on the service.
       - **Compliance:** Ensure compliance with relevant safety regulations and standards.
- 
-has context menu
