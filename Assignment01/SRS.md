@@ -35,13 +35,16 @@
    - ### **1.1 Purpose**
         The purpose of this document is to provide a comprehensive overview of the requirements for the development of "Apple TV+," a streaming service offered by Apple Inc. This document serves as a reference for stakeholders involved in the development process and outlines the functional and non-functional requirements of the system.
 
-   ### 1.2 Intended Audience
+   - ### **1.2 Intended Audience**
 The intended audience for Apple TV+ includes stakeholders such as developers, designers, project managers, and quality assurance teams involved in the development and deployment of the streaming service. Additionally, this document is relevant for executives, investors, and other decision-makers responsible for overseeing the project's progress and ensuring alignment with business goals.
 
-#### Stakeholders
-- **Content Acquisition Partners:** Companies and studios providing content for Apple TV+, including production houses, filmmakers, and distributors.
-- **Marketing Partners:** Agencies or teams responsible for promoting Apple TV+ content and service through various channels.
-- **Legal Advisors:** Legal experts ensuring compliance with content licensing agreements, copyright laws, and regulatory requirements.
+  - #### Stakeholders
+   - **Content Acquisition Partners:** Companies and studios providing content for Apple TV+, including production houses, 
+    filmmakers, and distributors.
+   - **Marketing Partners:** Agencies or teams responsible for promoting Apple TV+ content and service through various 
+      channels.
+   - **Legal Advisors:** Legal experts ensuring compliance with content licensing agreements, copyright laws, and 
+      regulatory requirements.
  
    - ### **1.3 Intended Use**
         Apple TV+ is intended to provide users with access to a diverse library of exclusive movies, TV shows, documentaries, and original content produced or acquired by Apple Inc. Users can subscribe to the service to stream content on various devices, including Apple devices such as iPhone, iPad, Mac, Apple TV, and select smart TVs.
