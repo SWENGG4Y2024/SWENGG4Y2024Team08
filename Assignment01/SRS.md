@@ -41,13 +41,13 @@
  is relevant for executives, investors, and other decision-makers responsible for overseeing the project's progress and 
  ensuring alignment with business goals.
 
-  - #### Stakeholders
-   - **Content Acquisition Partners:** Companies and studios providing content for Apple TV+, including production houses, 
-    filmmakers, and distributors.
-   - **Marketing Partners:** Agencies or teams responsible for promoting Apple TV+ content and service through various 
-      channels.
-   - **Legal Advisors:** Legal experts ensuring compliance with content licensing agreements, copyright laws, and 
-      regulatory requirements.
+   - #### Stakeholders
+     - **Content Acquisition Partners:** Companies and studios providing content for Apple TV+, including production 
+         houses,filmmakers, and distributors.
+     - **Marketing Partners:** Agencies or teams responsible for promoting Apple TV+ content and service through various 
+         channels.
+     - **Legal Advisors:** Legal experts ensuring compliance with content licensing agreements, copyright laws, and 
+         regulatory requirements.
  
    - ### **1.3 Intended Use**
         Apple TV+ is intended to provide users with access to a diverse library of exclusive movies, TV shows, documentaries, and original content produced or acquired by Apple Inc. Users can subscribe to the service to stream content on various devices, including Apple devices such as iPhone, iPad, Mac, Apple TV, and select smart TVs.
