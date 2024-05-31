@@ -199,7 +199,7 @@
       4. Engage with users through comments and discussions.
       5. Receive analytics and insights on audience engagement and preferences.
          
-## 4.Functional Requirements
+## 4. Functional Requirements
  
    - ### **4.1 User Interface Requirements**
  
