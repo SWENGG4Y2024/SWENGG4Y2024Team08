@@ -36,7 +36,10 @@
         The purpose of this document is to provide a comprehensive overview of the requirements for the development of "Apple TV+," a streaming service offered by Apple Inc. This document serves as a reference for stakeholders involved in the development process and outlines the functional and non-functional requirements of the system.
 
    - ### **1.2 Intended Audience**
-The intended audience for Apple TV+ includes stakeholders such as developers, designers, project managers, and quality assurance teams involved in the development and deployment of the streaming service. Additionally, this document is relevant for executives, investors, and other decision-makers responsible for overseeing the project's progress and ensuring alignment with business goals.
+     The intended audience for Apple TV+ includes stakeholders such as developers, designers, project managers, and 
+ quality assurance teams involved in the development and deployment of the streaming service. Additionally, this document 
+ is relevant for executives, investors, and other decision-makers responsible for overseeing the project's progress and 
+ ensuring alignment with business goals.
 
   - #### Stakeholders
    - **Content Acquisition Partners:** Companies and studios providing content for Apple TV+, including production houses, 
