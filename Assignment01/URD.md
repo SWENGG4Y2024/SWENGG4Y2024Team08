@@ -104,7 +104,7 @@ Non-functional requirements specify the quality attributes of the Apple TV+ serv
 ## 4. Assumptions and Constraints
 
 - **Content Licensing**: The availability of content on Apple TV+ may be subject to licensing agreements with content providers.
-- **Internet Connectivity**: Users must have a stable internet connection to stream content on Apple TV+.
+- **Internet Connectivity**: Viwer must have a stable internet connection to stream content on Apple TV+.
 - **Device Compatibility**: Some features may only be available on certain Apple devices or software versions.
 
 ## 5. Glossary
