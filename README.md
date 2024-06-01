@@ -18,3 +18,9 @@ Apple TV+ is a subscription-based streaming service providing a wide range of en
 ### User requirements document (URD) Document - [Here](https://github.comSWENGG4Y2024/SWENGG4Y2024Team08/blob/main/Assignment01/URD.md)
 ### Software Requirements Specification (SRS) Document  - [Here](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team08/blob/main/Assignment01/SRS.md)
 
+FLOW OF PRESENTAITION
+
+URD
+![image](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team08/assets/145204487/57ad6089-e80d-4521-b2f1-411031b1bc5f)
+
+
