@@ -57,7 +57,7 @@
    - ### **1.5 Definitions, Acronyms, and Abbreviations**
         Conventions        | Definition
         -----------        | -----------
-        Subscription       | An arrangement where users pay a fee in advance to access the content and features offered by Apple TV+, typically on a recurring basis.
+        Subscription       | An arrangement where potential subscriber pay a fee in advance to access the content and features offered by Apple TV+, typically on a recurring basis.
         Rating             | A classification or ranking of someone or something based on a comparative assessment of their quality, standard, or performance, often used to categorize and recommend content to users based on their preferences.
         Account            | An identity associated with the Apple TV+ service, typically created by users through registration or sign-up processes. Users can manage their account settings, preferences, and subscription details through their Apple ID.
         Categories         | Classification of different types of content available on the Apple TV+ platform, organizing movies, TV shows, and other media into distinct genres or themes to facilitate browsing and discovery.
