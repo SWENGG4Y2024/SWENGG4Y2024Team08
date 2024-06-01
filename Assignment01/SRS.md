@@ -52,7 +52,7 @@
  wide range of exclusive movies, TV shows, documentaries, and more. Subscribers will have the flexibility to choose a plan 
  that best suits their preferences and viewing habits, enabling them to enjoy uninterrupted streaming of premium content. 
  Additionally, the service will provide features such as personalized recommendations, watchlist management, and offline 
- viewing capabilities to enhance the overall user experience.
+ viewing capabilities to enhance the overall potential user/subcribers experience.
  
    - ### **1.5 Definitions, Acronyms, and Abbreviations**
         Conventions        | Definition
