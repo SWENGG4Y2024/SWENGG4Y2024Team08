@@ -4,6 +4,22 @@
 
 The User Requirements Document (URD) outlines the functional and non-functional requirements of the Apple TV+ streaming service. This document serves as a guide for stakeholders involved in the development, implementation, and maintenance of Apple TV+.
 
+### 1.1 Purpose
+
+The purpose of this document is to detail the user requirements for Apple TV+ to ensure that the final product meets the needs and expectations of its users.
+
+### 1.2 Intended Audience
+
+The intended audience for the URD includes stakeholders such as developers, designers, project managers, quality assurance teams, executives, investors, and decision-makers responsible for overseeing the project's progress and ensuring alignment with business goals.
+
+### 1.3 Scope
+
+The scope of this document covers the functional and non-functional requirements of the Apple TV+ streaming service, focusing on defining what the system should do (functional requirements) and how it should perform (non-functional requirements).
+
+### 1.4 Definitions, Acronyms, and Abbreviations
+
+Refer to the glossary section for definitions of key terms and acronyms used throughout this document.
+
 ## 2. Stakeholders
 
 ### 2.1 Description
@@ -13,14 +29,10 @@ Stakeholders are individuals or groups with an interest in the success of Apple 
 ### 2.2 List of Stakeholders
 
 - **Client / Product Owner**: Represents the entity commissioning the Apple TV+ service and ensures alignment with organizational goals.
-- **Content Acquisition Partners**: Companies and studios providing content for Apple TV+, including production houses, filmmakers, and distributors.
-- **Marketing Partners**: Agencies or teams responsible for promoting Apple TV+ content and service through various channels.
-- **Legal Advisors**: Legal experts ensuring compliance with content licensing agreements, copyright laws, and regulatory requirements.
 - **End Users**: Individuals worldwide seeking high-quality entertainment content accessible through the Apple ecosystem.
 - **Development Team**: Comprises software engineers, designers, and content creators responsible for creating and maintaining Apple TV+ content and platform.
 - **Quality Assurance (QA) Team**: Ensures the quality, reliability, and performance of Apple TV+ content and platform through rigorous testing and validation processes.
 - **Management / Stakeholder Representatives**: Provide oversight, guidance, and strategic direction for Apple TV+.
-- **External Partners / Vendors**: Collaborate with Apple to provide content, technology, and services for Apple TV+.
 
 ## 3. User Requirements
 
@@ -36,9 +48,7 @@ Functional requirements specify the interactions between users and the Apple TV+
    
 4. **Content Recommendations**: The system should provide personalized content recommendations based on users' viewing history and preferences.
    
-5. **Accessibility Features**: The system should incorporate accessibility features to ensure a seamless experience for users with disabilities.
-   
-6. **Parental Controls**: Parents should be able to set up and manage parental controls to restrict access to certain content based on ratings or categories.
+5. **Parental Controls**: Parents should be able to set up and manage parental controls to restrict access to certain content based on ratings or categories.
 
 ### 3.2 Non-Functional Requirements
 
@@ -50,11 +60,9 @@ Non-functional requirements specify the quality attributes of the Apple TV+ serv
    
 3. **Security**: The system should adhere to industry-standard security practices to protect user data and privacy.
    
-4. **Scalability**: The system should be scalable to accommodate growing user demand and content libraries.
+4. **Usability**: The system should have an intuitive user interface and navigation experience across all devices.
    
-5. **Usability**: The system should have an intuitive user interface and navigation experience across all devices.
-   
-6. **Compatibility**: The system should be compatible with a wide range of Apple devices and platforms.
+5. **Compatibility**: The system should be compatible with a wide range of Apple devices and platforms.
 
 ## 4. Assumptions and Constraints
 
