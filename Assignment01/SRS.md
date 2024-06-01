@@ -58,9 +58,9 @@
        strategic direction for Apple TV+.and platform through rigorous testing and validation processes.
        
   - ### **1.3 Intended Use**
- Apple TV+ is intended to provide users with access to a diverse library of exclusive movies, TV shows, 
- documentaries, and original content produced or acquired by Apple Inc. Users can subscribe to the service to stream 
- content on various devices, including Apple devices such as iPhone, iPad, Mac, Apple TV, and select smart TVs.
+     Apple TV+ is intended to provide users with access to a diverse library of exclusive movies, TV shows, 
+     documentaries, and original content produced or acquired by Apple Inc. Users can subscribe to the service to stream 
+     content on various devices, including Apple devices such as iPhone, iPad, Mac, Apple TV, and select smart TVs.
  
    - ### **1.4 Scope**
         The scope of this product includes the development of a robust database and an intuitive interface to facilitate 
