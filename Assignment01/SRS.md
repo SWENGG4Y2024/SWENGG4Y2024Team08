@@ -80,20 +80,20 @@
       - Personalized Recommendations: The service uses algorithms to provide personalized
       recommendations to users based on their viewing history, preferences, and ratings.
       - Multiple Profiles: subscribers can create multiple profiles under one account, allowing for
-      personalized viewing history, recommendations, and watchlists for each user.
-      - Offline Viewing: Apple TV+ allows users to download selected content for offline viewing,
+      personalized viewing history, recommendations, and watchlists for each Viwer.
+      - Offline Viewing: Apple TV+ allows Viwers to download selected content for offline viewing,
       enabling them to watch movies and TV shows without an internet connection.
       - Continuous Playback: The service automatically plays the next episode of a TV series,
-      facilitating binge-watching sessions for users.
+      facilitating binge-watching sessions for Viwers.
       - Parental Controls: Apple TV+ offers parental controls to restrict access to age-inappropriate
       content and create child-friendly profiles.
-      - Search and Filtering: Users can search for specific titles, actors, or genres, and filter content
+      - Search and Filtering: Viwers can search for specific titles, actors, or genres, and filter content
       based on criteria such as release year and ratings.
       - Cross-Platform Access: Apple TV+ is accessible on various devices, including iPhone, iPad,
       Mac, Apple TV, and selected smart TVs, ensuring seamless streaming across different platforms.
  
-   -  ### 2.3 **User Classes and Characteristics**
-      - Subscribers: End-users who subscribe to Apple TV+ to access the content and features
+   -  ### 2.3 **Subscriber Classes and Characteristics**
+      - Subscribers: viwers who subscribe to Apple TV+ to access the content and features
       offered by the service.
       - Content Creators: Individuals or companies responsible for creating the content available on
       Apple TV+, including movies, TV shows, documentaries, and original programming.
@@ -102,7 +102,7 @@
       - Business Partners: Companies that collaborate with Apple TV+ to provide complementary
       services, such as payment processors and technology vendors.
  
-        **characteristics of these user classes could include:**
+        **characteristics of these subscriber classes could include:**
           - Subscribers: They may have different levels of technical expertise, but all expect an easy-to-use and reliable streaming service that offers a broad range of high-quality content.
           - Content Creators: They may have specific technical requirements for video and audio
           quality, as well as a desire to protect their intellectual property rights and control how
@@ -128,7 +128,7 @@
         - Data Security: Prioritize user privacy and security, complying with Apple's privacy policies
         and GDPR.
         - Server Capacity Management: Manage server capacity and network traffic for optimal
-        performance and scalability to accommodate a large number of concurrent users
+        performance and scalability to accommodate a large number of concurrent Viwers
         - Privacy Protection: The service must adhere to privacy regulations and data protection
         standards to safeguard user data and ensure compliance with legal requirements.
         - User Interface Consistency: Maintain a consistent and intuitive interface following Apple's
