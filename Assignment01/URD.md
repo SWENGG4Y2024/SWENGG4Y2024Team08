@@ -16,10 +16,6 @@ The intended audience for the URD includes stakeholders such as developers, desi
 
 The scope of this document covers the functional and non-functional requirements of the Apple TV+ streaming service, focusing on defining what the system should do (functional requirements) and how it should perform (non-functional requirements).
 
-### 1.4 Definitions, Acronyms, and Abbreviations
-
-Refer to the glossary section for definitions of key terms and acronyms used throughout this document.
-
 ## 2. Stakeholders
 
 ### 2.1 Description
