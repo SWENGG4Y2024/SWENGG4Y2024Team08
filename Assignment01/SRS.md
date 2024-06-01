@@ -42,15 +42,26 @@
  ensuring alignment with business goals.
 
    - #### Stakeholders
-     - **Content Acquisition Partners:** Companies and studios providing content for Apple TV+, including production 
-         houses,filmmakers, and distributors.
-     - **Marketing Partners:** Agencies or teams responsible for promoting Apple TV+ content and service through various 
-         channels.
-     - **Legal Advisors:** Legal experts ensuring compliance with content licensing agreements, copyright laws, and 
-         regulatory requirements.
- 
-   - ### **1.3 Intended Use**
-        Apple TV+ is intended to provide users with access to a diverse library of exclusive movies, TV shows, documentaries, and original content produced or acquired by Apple Inc. Users can subscribe to the service to stream content on various devices, including Apple devices such as iPhone, iPad, Mac, Apple TV, and select smart TVs.
+     - **Client / Product Owner:** Represents the entity commissioning the Apple TV+ service, ensuring alignment with 
+        organizational goals and providing requirements and feedback.
+     - **End Users:** End users of Apple TV+ are individuals worldwide seeking high-quality entertainment content 
+        accessible through the Apple ecosystem.
+     - **Development Team:** The development team comprises software engineers, designers, and content creators responsible 
+       for creating and maintaining Apple TV+ content and platform.
+     - **Quality Assurance (QA) Team:** The QA team ensures the quality, reliability, and performance of Apple TV+ content 
+       and platform through rigorous testing and validation processes.
+     - **Management / Stakeholder Representatives:** Management or stakeholder representatives provide oversight, guidance, 
+        and strategic direction for Apple TV+.and platform through rigorous testing and validation processes.
+     - **External Partners / Vendors:** Management or stakeholder representatives provide oversight, guidance, and 
+       strategic direction for Apple TV+.and platform through rigorous testing and validation processes.
+     - **External Partners / Vendors:** Management or stakeholder representatives provide oversight, guidance, and 
+       strategic direction for Apple TV+.and platform through rigorous testing and validation processes.
+       
+
+ - ### **1.3 Intended Use**
+        Apple TV+ is intended to provide users with access to a diverse library of exclusive movies, TV shows, 
+ documentaries, and original content produced or acquired by Apple Inc. Users can subscribe to the service to stream 
+ content on various devices, including Apple devices such as iPhone, iPad, Mac, Apple TV, and select smart TVs.
  
    - ### **1.4 Scope**
         The scope of this product includes the development of a robust database and an intuitive interface to facilitate easy user interaction. Users will be able to subscribe to various plans offered by the service, granting them access to a wide range of exclusive movies, TV shows, documentaries, and more. Subscribers will have the flexibility to choose a plan that best suits their preferences and viewing habits, enabling them to enjoy uninterrupted streaming of premium content. Additionally, the service will provide features such as personalized recommendations, watchlist management, and offline viewing capabilities to enhance the overall user experience.
