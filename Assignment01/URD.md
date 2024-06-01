@@ -22,13 +22,56 @@ The scope of this document covers the functional and non-functional requirements
 
 Stakeholders are individuals or groups with an interest in the success of Apple TV+. They play crucial roles in defining requirements, providing feedback, and ensuring alignment with organizational goals.
 
-### 2.2 List of Stakeholders
+Here is a list of **Client / Product Owner, End Users, Development Team, Quality Assurance (QA) Team, Management / Stakeholder Representatives, External Partners / Vendors** for Apple TV+.
+ 
+## 2. Client / Product Owner ( Interests / Expectations)
 
-- **Client / Product Owner**: Represents the entity commissioning the Apple TV+ service and ensures alignment with organizational goals.
-- **End Users**: Individuals worldwide seeking high-quality entertainment content accessible through the Apple ecosystem.
-- **Development Team**: Comprises software engineers, designers, and content creators responsible for creating and maintaining Apple TV+ content and platform.
-- **Quality Assurance (QA) Team**: Ensures the quality, reliability, and performance of Apple TV+ content and platform through rigorous testing and validation processes.
-- **Management / Stakeholder Representatives**: Provide oversight, guidance, and strategic direction for Apple TV+.
+- Deliver a streaming service that meets users' entertainment needs.
+- Ensure alignment with Apple's brand values.
+- Attract a broad subscriber base.
+- Ensure timely content releases.
+- Maintain high-quality productions.
+- Foster effective communication throughout the project.
+ 
+## 3. End Users ( Interests / Needs )
+ 
+- Seamless access to a diverse range of original and exclusive content.
+- User-friendly interface across devices.
+- High-quality streaming experiences.
+- Engaging storytelling and innovative features.
+- Seamless integration with Apple devices and services.
+ 
+## 4. Development Team ( Interests / Goals )
+ 
+- Produce compelling original content.
+- Enhance platform features and optimize user experience.
+- Collaborate, innovate, and continuously improve.
+- Meet user expectations and maintain Apple's reputation for excellence.
+  
+## 5. Quality Assurance (QA) Team ( Interests / Objectives )
+ 
+- Identify and address issues or defects.
+- Maintain high-quality standards and enhance platform reliability.
+- Ensure customer satisfaction.
+ 
+## 6. Management / Stakeholder Representatives ( Interests / Concerns )
+ 
+- Align Apple TV+ with Apple's business objectives.
+- Enhance brand value and generate revenue.
+- Maintain market competitiveness and grow subscriber base.
+- Ensure effective content acquisition and strategic partnerships.
+ 
+### 6.3 Stakeholders ( Interests / Collaboration )
+ 
+- Foster successful collaborations with Apple.
+- Deliver high-quality content and services.
+- Achieve mutual business objectives.
+ 
+### 7.3 Stakeholders ( Interests / Collaboration)
+ 
+- Foster successful collaborations with Apple.
+- Deliver high-quality content and services.
+- Achieve mutual business objectives.
 
 ## 3. User Requirements
 
