@@ -22,7 +22,7 @@ Stakeholders are individuals or groups with an interest in the success of Apple 
 
 Here is a list of **Client / Product Owner, End Users, Development Team, Quality Assurance (QA) Team, Management / Stakeholder Representatives, External Partners / Vendors** for Apple TV+.
  
-### 2.1 Client / Product Owner ( Interests / Expectations)
+ 2.1 **Client / Product Owner ( Interests / Expectations)**
 
 - Deliver a streaming service that meets users' entertainment needs.
 - Ensure alignment with Apple's brand values.
@@ -31,7 +31,7 @@ Here is a list of **Client / Product Owner, End Users, Development Team, Quality
 - Maintain high-quality productions.
 - Foster effective communication throughout the project.
  
-### 2.2 End Users ( Interests / Needs )
+ 2.2 **End Users ( Interests / Needs )**
  
 - Seamless access to a diverse range of original and exclusive content.
 - User-friendly interface across devices.
@@ -39,33 +39,33 @@ Here is a list of **Client / Product Owner, End Users, Development Team, Quality
 - Engaging storytelling and innovative features.
 - Seamless integration with Apple devices and services.
  
-### 2.3 Development Team ( Interests / Goals )
+ 2.3 **Development Team ( Interests / Goals )**
  
 - Produce compelling original content.
 - Enhance platform features and optimize user experience.
 - Collaborate, innovate, and continuously improve.
 - Meet user expectations and maintain Apple's reputation for excellence.
   
-### 2.4 Quality Assurance (QA) Team ( Interests / Objectives )
+2.4 **Quality Assurance (QA) Team ( Interests / Objectives )**
  
 - Identify and address issues or defects.
 - Maintain high-quality standards and enhance platform reliability.
 - Ensure customer satisfaction.
  
-### 2.5 Management / Stakeholder Representatives ( Interests / Concerns )
+2.5 **Management / Stakeholder Representatives ( Interests / Concerns )**
  
 - Align Apple TV+ with Apple's business objectives.
 - Enhance brand value and generate revenue.
 - Maintain market competitiveness and grow subscriber base.
 - Ensure effective content acquisition and strategic partnerships.
  
-### 2.6 Stakeholders ( Interests / Collaboration )
+2.6 **Stakeholders ( Interests / Collaboration )**
  
 - Foster successful collaborations with Apple.
 - Deliver high-quality content and services.
 - Achieve mutual business objectives.
  
-### 2.7 Stakeholders ( Interests / Collaboration)
+2.7 **Stakeholders ( Interests / Collaboration)**
  
 - Foster successful collaborations with Apple.
 - Deliver high-quality content and services.
