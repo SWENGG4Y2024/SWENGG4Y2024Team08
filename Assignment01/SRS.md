@@ -58,12 +58,12 @@
         Conventions        | Definition
         -----------        | -----------
         Subscription       | An arrangement where potential subscriber pay a fee in advance to access the content and features offered by Apple TV+, typically on a recurring basis.
-        Rating             | A classification or ranking of someone or something based on a comparative assessment of their quality, standard, or performance, often used to categorize and recommend content to users based on their preferences.
-        Account            | An identity associated with the Apple TV+ service, typically created by users through registration or sign-up processes. Users can manage their account settings, preferences, and subscription details through their Apple ID.
+        Rating             | A classification or ranking based on a comparative assessment of their quality, standard, or performance, often used to categorize and recommend content to subscribers based on their preferences.
+        Account            | An identity associated with the Apple TV+ service, typically created by Subscribers through registration or sign-up processes. subcribers can manage their account settings, preferences, and subscription details through their Apple ID.
         Categories         | Classification of different types of content available on the Apple TV+ platform, organizing movies, TV shows, and other media into distinct genres or themes to facilitate browsing and discovery.
         Offline Mode       | A feature that allows users to download select content from Apple TV+ for offline viewing, enabling them to enjoy movies and TV shows without an internet connection, often used for convenience during travel or limited connectivity situations.
-        Download           | The process of transferring data from the Apple TV+ platform to a user's device for offline viewing, typically involving the storage of media files locally on the device.
-        Subscribe          | The action of signing up for a subscription plan offered by Apple TV+, granting users access to exclusive content and features in exchange for a recurring fee paid in advance.
+        Download           | The process of transferring data from the Apple TV+ platform to a siubscribers device for offline viewing, typically involving the storage of media files locally on the device.
+        Subscribe          | The action of signing up for a subscription plan offered by Apple TV+, granting subscribers access to exclusive content and features in exchange for a recurring fee paid in advance.
  
 ##  **2. Overall Description**
  
@@ -79,7 +79,7 @@
       documentaries, and original content produced or acquired by Apple Inc.
       - Personalized Recommendations: The service uses algorithms to provide personalized
       recommendations to users based on their viewing history, preferences, and ratings.
-      - Multiple Profiles: Users can create multiple profiles under one account, allowing for
+      - Multiple Profiles: subscribers can create multiple profiles under one account, allowing for
       personalized viewing history, recommendations, and watchlists for each user.
       - Offline Viewing: Apple TV+ allows users to download selected content for offline viewing,
       enabling them to watch movies and TV shows without an internet connection.
