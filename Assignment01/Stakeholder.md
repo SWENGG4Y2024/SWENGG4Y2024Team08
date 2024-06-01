@@ -39,7 +39,7 @@ Here is a list of **Client / Product Owner, End Users, Development Team, Quality
 Represents the entity commissioning the Apple TV+ service, ensuring alignment with organizational goals and providing requirements and feedback.
 
 ### 2.2 Interests / Expectations
-The client's primary interest lies in delivering a streaming service that meets users' entertainment needs, aligns with Apple's brand values, and attracts a broad subscriber base. They expect timely content releases, high-quality productions, and effective communication throughout the project.
+The client's primary interest lies in delivering a streaming service that meets viewers' entertainment needs, aligns with Apple's brand values, and attracts a broad subscriber base. They expect timely content releases, high-quality productions, and effective communication throughout the project.
 
 ### 2.3 Stakeholders
 - **Content Acquisition Partners:** Companies and studios providing content for Apple TV+, including production houses, filmmakers, and distributors.
@@ -55,9 +55,9 @@ End users of Apple TV+ are individuals worldwide seeking high-quality entertainm
 End users prioritize seamless access to a diverse range of original and exclusive content, a user-friendly interface across devices, and high-quality streaming experiences. They expect engaging storytelling, innovative features, and seamless integration with Apple devices and services.
 
 ### 3.3 Stakeholders
-- **Focus Groups:** Groups of users providing feedback on content preferences, user interface design, and overall user experience.
-- **Accessibility Advocates:** Organizations or individuals advocating for accessible design and features for users with disabilities.
-- **Privacy Advocates:** Groups ensuring user data protection and privacy considerations in content recommendation algorithms and user profiling.
+- **Focus Groups:** Groups of viwers providing feedback on content preferences, user interface design, and overall viwer experience.
+- **Accessibility Advocates:** Organizations or individuals advocating for accessible design and features for viwer with disabilities.
+- **Privacy Advocates:** Groups ensuring viwer data protection and privacy considerations in content recommendation algorithms and viwer profiling.
 
 ## 4. Development Team
 
@@ -65,11 +65,11 @@ End users prioritize seamless access to a diverse range of original and exclusiv
 The development team comprises software engineers, designers, and content creators responsible for creating and maintaining Apple TV+ content and platform.
 
 ### 4.2 Interests / Goals
-The development team aims to produce compelling original content, enhance platform features, and optimize user experience across devices. They prioritize collaboration, innovation, and continuous improvement to meet user expectations and maintain Apple's reputation for excellence.
+The development team aims to produce compelling original content, enhance platform features, and optimize viwer experience across devices. They prioritize collaboration, innovation, and continuous improvement to meet user expectations and maintain Apple's reputation for excellence.
 
 ### 4.3 Stakeholders
 - **Content Creators:** Writers, directors, producers, and artists creating original content for Apple TV+, contributing to the platform's unique offerings.
-- **User Experience (UX) Researchers:** Professionals conducting user research and usability testing to inform design decisions and improve user satisfaction.
+- **User Experience (UX) Researchers:** Professionals conducting viwer research and usability testing to inform design decisions and improve viwer satisfaction.
 - **Technology Partners:** Companies providing streaming technology, cloud infrastructure, and other technical solutions to support Apple TV+ operations.
 
 ## 5. Quality Assurance (QA) Team
@@ -78,7 +78,7 @@ The development team aims to produce compelling original content, enhance platfo
 The QA team ensures the quality, reliability, and performance of Apple TV+ content and platform through rigorous testing and validation processes.
 
 ### 5.2 Interests / Objectives
-The QA team's objective is to identify and address any issues or defects in content delivery, streaming quality, and user experience. They strive to maintain high-quality standards, enhance platform reliability, and ensure customer satisfaction.
+The QA team's objective is to identify and address any issues or defects in content delivery, streaming quality, and viwer experience. They strive to maintain high-quality standards, enhance platform reliability, and ensure customer satisfaction.
 
 ### 5.3 Stakeholders
 - **Beta Testers:** Early adopters and enthusiasts participating in beta testing programs to identify bugs, provide feedback, and improve overall product quality.
@@ -104,7 +104,7 @@ Management is interested in ensuring Apple TV+ aligns with Apple's broader busin
 External partners and vendors collaborate with Apple to provide content, technology, and services for Apple TV+.
 
 ### 7.2 Interests / Collaboration
-External partners aim to foster successful collaborations with Apple, deliver high-quality content and services, and achieve mutual business objectives. They contribute expertise, resources, and creativity to enhance Apple TV+ offerings and user experience.
+External partners aim to foster successful collaborations with Apple, deliver high-quality content and services, and achieve mutual business objectives. They contribute expertise, resources, and creativity to enhance Apple TV+ offerings and viwer experience.
 
 ### 7.3 Stakeholders
 - **Content Production Studios:** Studios producing original content exclusively for Apple TV+, including movies, series, documentaries, and other programming.
