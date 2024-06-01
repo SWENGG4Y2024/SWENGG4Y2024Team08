@@ -57,14 +57,18 @@
      - **External Partners / Vendors:** Management or stakeholder representatives provide oversight, guidance, and 
        strategic direction for Apple TV+.and platform through rigorous testing and validation processes.
        
-
- - ### **1.3 Intended Use**
+  - ### **1.3 Intended Use**
         Apple TV+ is intended to provide users with access to a diverse library of exclusive movies, TV shows, 
- documentaries, and original content produced or acquired by Apple Inc. Users can subscribe to the service to stream 
- content on various devices, including Apple devices such as iPhone, iPad, Mac, Apple TV, and select smart TVs.
+  documentaries, and original content produced or acquired by Apple Inc. Users can subscribe to the service to stream 
+  content on various devices, including Apple devices such as iPhone, iPad, Mac, Apple TV, and select smart TVs.
  
    - ### **1.4 Scope**
-        The scope of this product includes the development of a robust database and an intuitive interface to facilitate easy user interaction. Users will be able to subscribe to various plans offered by the service, granting them access to a wide range of exclusive movies, TV shows, documentaries, and more. Subscribers will have the flexibility to choose a plan that best suits their preferences and viewing habits, enabling them to enjoy uninterrupted streaming of premium content. Additionally, the service will provide features such as personalized recommendations, watchlist management, and offline viewing capabilities to enhance the overall user experience.
+        The scope of this product includes the development of a robust database and an intuitive interface to facilitate 
+ easy user interaction. Users will be able to subscribe to various plans offered by the service, granting them access to a 
+ wide range of exclusive movies, TV shows, documentaries, and more. Subscribers will have the flexibility to choose a plan 
+ that best suits their preferences and viewing habits, enabling them to enjoy uninterrupted streaming of premium content. 
+ Additionally, the service will provide features such as personalized recommendations, watchlist management, and offline 
+ viewing capabilities to enhance the overall user experience.
  
    - ### **1.5 Definitions, Acronyms, and Abbreviations**
         Conventions        | Definition
