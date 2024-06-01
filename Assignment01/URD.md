@@ -1,65 +1,115 @@
-# User Requirements Document for Apple Tv+
+# User Requirements Document (URD) for Apple TV+
+
+## 1. Introduction
+
+The User Requirements Document (URD) outlines the functional and non-functional requirements of the Apple TV+ streaming service. This document serves as a guide for stakeholders involved in the development, implementation, and maintenance of Apple TV+.
+
+### 1.1 Purpose
+
+The purpose of this document is to detail the user requirements for Apple TV+ to ensure that the final product meets the needs and expectations of its users.
+
+### 1.2 Intended Audience
+
+The intended audience for the URD includes stakeholders such as developers, designers, project managers, quality assurance teams, executives, investors, and decision-makers responsible for overseeing the project's progress and ensuring alignment with business goals.
+
+### 1.3 Scope
+
+The scope of this document covers the functional and non-functional requirements of the Apple TV+ streaming service, focusing on defining what the system should do (functional requirements) and how it should perform (non-functional requirements).
+
+## 2. User Requirements
+
+Stakeholders are individuals or groups with an interest in the success of Apple TV+. They play crucial roles in defining requirements, providing feedback, and ensuring alignment with organizational goals.
+
+Here is a list of **Client / Product Owner, End Users, Development Team, Quality Assurance (QA) Team, Management / Stakeholder Representatives, External Partners / Vendors** for Apple TV+.
  
-## System functionality
+ 2.1 **Client / Product Owner ( Interests / Expectations)**
+
+- Deliver a streaming service that meets users' entertainment needs.
+- Ensure alignment with Apple's brand values.
+- Attract a broad subscriber base.
+- Ensure timely content releases.
+- Maintain high-quality productions.
+- Foster effective communication throughout the project.
  
-- **Streaming:** The system must seamlessly deliver high-quality video content to users across diverse devices and networks.
-- **Search and Discovery:** Users should effortlessly explore and find relevant content through an intuitive interface tailored to their preferences and viewing history.
-- **Personalization:** Tailored recommendations based on user viewing habits, ratings, and preferences should enhance the viewing experience.
-- **User Management:** Users should have the ability to create and manage profiles, customize preferences, and access account information.
-- **Content Management:** A robust content management system should empower providers to efficiently upload and manage content on the platform.
-- **Security and Privacy:** The system must implement rigorous measures to protect user data, including personal information, viewing history, and payment details.
-- **Performance and Scalability:** The system must maintain robust performance under heavy loads, supporting numerous concurrent users with consistent availability, reliability, and scalability.
+ 2.2 **End Users ( Interests / Needs )**
  
+- Seamless access to a diverse range of original and exclusive content.
+- User-friendly interface across devices.
+- High-quality streaming experiences.
+- Engaging storytelling and innovative features.
+- Seamless integration with Apple devices and services.
  
-## Objectives:
+ 2.3 **Development Team ( Interests / Goals )**
  
-The Primary objective of Apple TV+ is to curate a diverse range of high-caliber content, encompassing movies, TV series, documentaries, and exclusive originals, to cater to the varied interests and tastes of its global audience. Additionally, it seeks to enhance user engagement and retention through personalized experiences, including tailored recommendations and community-building features, fostering a sense of belonging among subscribers.
+- Produce compelling original content.
+- Enhance platform features and optimize user experience.
+- Collaborate, innovate, and continuously improve.
+- Meet user expectations and maintain Apple's reputation for excellence.
+  
+2.4 **Quality Assurance (QA) Team ( Interests / Objectives )**
  
-Apple TV+ aims to expand its presence in new markets and differentiate itself by offering region-specific content and a unique lineup of exclusive shows and movies. With a focus on revenue generation, the service prioritizes subscription fees, advertising, merchandise sales, and licensing agreements. This financial strategy is complemented by investments in content creation, technological advancements, and innovative initiatives.
+- Identify and address issues or defects.
+- Maintain high-quality standards and enhance platform reliability.
+- Ensure customer satisfaction.
  
-Additionally, Apple TV+ is dedicated to innovation, continually exploring new formats, technologies, and distribution methods to stay ahead of industry trends and meet the evolving preferences of its audience. These objectives remain adaptable, responsive to market dynamics, strategic imperatives, and customer feedback.
+2.5 **Management / Stakeholder Representatives ( Interests / Concerns )**
  
+- Align Apple TV+ with Apple's business objectives.
+- Enhance brand value and generate revenue.
+- Maintain market competitiveness and grow subscriber base.
+- Ensure effective content acquisition and strategic partnerships.
  
-## Target Environment:
+2.6 **Stakeholders ( Interests / Collaboration )**
  
-Apple TV+ operates within the dynamic landscape of the online streaming industry, renowned for its fierce competition and continuous evolution. Its demographic consists of people of all ages who have a penchant for consuming movies and TV series. With a global presence, Apple TV+ garners substantial traction across regions such as the United States, Canada, Europe, Asia, Africa, and Latin America . The service is accessible through a multitude of devices, spanning smart TVs, smartphones, tablets, laptops, and gaming consoles. As such, the target environment for Apple TV+ encompasses a diverse array of platforms and devices conducive to streaming video content.
+- Foster successful collaborations with Apple.
+- Deliver high-quality content and services.
+- Achieve mutual business objectives.
  
+2.7 **Stakeholders ( Interests / Collaboration)**
  
-## Constraints and assumptions:
- 
-**Constraints may include:**
- 
- - The service must contend with technical limitations across various devices and platforms utilized by its diverse user base.
- - Compliance with stringent legal and regulatory frameworks governing content distribution and licensing is paramount.
- - Budget constraints dictate the allocation of resources for system development, maintenance, and upgrades.
- - The physical and technical infrastructure required for storing and delivering extensive volumes of video content poses logistical challenges.
- - Strict timelines govern the development, testing, and deployment of new features and updates to maintain competitiveness.
- - Intense competition from rival streaming services constrains the ability to adjust subscription fees or attract new subscribers.
- 
- 
-## User Requirements for Apple TV+ Application:
- 
-**1. Functionality:**
-  - Search and browse movies and TV shows by title, genre, and actors.
-  - Manage personal profiles, including rating and reviewing content.
-  - Add content to a watchlist and resume watching from where left off.
- 
-**2. Usability:**
-  - Intuitive interface with quick loading and responsiveness.
-  - Seamless performance across devices (smartphones, tablets, smart TVs).
-  - Customizable viewing experience (subtitle/audio settings) and tailored recommendations.
- 
-**3. Reliability:**
-  - 24/7 availability without interruptions.
-  - Ability to handle large user traffic without slowdowns or crashes.
-  - Security measures to protect personal and payment information.
- 
-**4. Performance:**
-  - High-quality video streaming with minimal buffering.
-  - Optimization of video quality based on internet speed and device capabilities.
-  - Support for high-resolution formats (e.g., 4K, HDR).
- 
-**5. Supportability:**
-  - Clear user documentation and accessible customer support (email, chat).
-  - Regular software updates for bug fixes and feature enhancements.
- 
+- Foster successful collaborations with Apple.
+- Deliver high-quality content and services.
+- Achieve mutual business objectives.
+
+## 3. System Requirements
+
+### 3.1 Functional Requirements
+
+Functional requirements specify the interactions between users and the Apple TV+ service. These requirements define what the system should do.
+
+1. **Content Discovery**: Users should be able to easily discover and explore a diverse range of original and exclusive content.
+   
+2. **User Authentication**: Users should be able to sign in securely using their Apple ID or other authentication methods.
+   
+3. **Streaming Playback**: Users should be able to stream high-quality video content seamlessly across multiple devices.
+   
+4. **Content Recommendations**: The system should provide personalized content recommendations based on users' viewing history and preferences.
+   
+5. **Parental Controls**: Parents should be able to set up and manage parental controls to restrict access to certain content based on ratings or categories.
+
+### 3.2 Non-Functional Requirements
+
+Non-functional requirements specify the quality attributes of the Apple TV+ service. These requirements define how the system should perform.
+
+1. **Performance**: The system should be responsive and provide smooth streaming experiences even during peak usage periods.
+   
+2. **Reliability**: The system should be reliable, with minimal downtime and interruptions to streaming services.
+   
+3. **Security**: The system should adhere to industry-standard security practices to protect user data and privacy.
+   
+4. **Usability**: The system should have an intuitive user interface and navigation experience across all devices.
+   
+5. **Compatibility**: The system should be compatible with a wide range of Apple devices and platforms.
+
+## 4. Assumptions and Constraints
+
+- **Content Licensing**: The availability of content on Apple TV+ may be subject to licensing agreements with content providers.
+- **Internet Connectivity**: Users must have a stable internet connection to stream content on Apple TV+.
+- **Device Compatibility**: Some features may only be available on certain Apple devices or software versions.
+
+## 5. Glossary
+
+- **Apple ID**: A unique identifier used to access Apple services, including Apple TV+.
+- **Content Providers**: Companies or individuals supplying media content, such as movies, TV shows, or documentaries.
+- **Parental Controls**: Settings that allow parents to restrict access to certain content based on ratings or categories.
+- **Streaming**: Transmitting video or audio data over the internet in real-time for immediate playback.
