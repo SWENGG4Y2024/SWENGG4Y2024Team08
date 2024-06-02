@@ -40,6 +40,7 @@ Here is a list of **Client / Product Owner, End Users, Development Team, Quality
 - High-quality streaming experiences.
 - Engaging storytelling and innovative features.
 - Seamless integration with Galaxy devices and services.
+- Leverage offline mode by downloading the content of their choice
 
  **Admins:**
 - Manage user accounts and subscriptions
