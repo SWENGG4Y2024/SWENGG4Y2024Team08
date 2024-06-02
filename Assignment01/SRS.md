@@ -99,8 +99,6 @@
       Apple TV+, including movies, TV shows, documentaries, and original programming.
       - Content Providers: Companies that license content to Apple TV+ for streaming on the
       platform, such as movie studios, TV networks, and production companies.
-      - Business Partners: Companies that collaborate with Apple TV+ to provide complementary
-      services, such as payment processors and technology vendors.
  
         **characteristics of these subscriber classes could include:**
           - Subscribers: They may have different levels of technical expertise, but all expect an easy-to-use and reliable streaming service that offers a broad range of high-quality content.
@@ -152,8 +150,7 @@
         errors or account issues.
         - Privacy and Security: Guidelines on how Apple protects user privacy and security while using
         Apple TV+.
-        - Help Desk: Contact information and resources for users to get assistance with any issues or
-        questions they encounter while using the Apple TV+ app.
+        - Help Desk: Our chatbot is available 24/7 to provide you with instant support. For complex issues that require human intervention, our live chat and email support are available during business hours.
  
    -  ### **2.7 Assumptions & Dependencies**
         **Assumptions:**

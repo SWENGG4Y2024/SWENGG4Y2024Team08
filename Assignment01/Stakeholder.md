@@ -55,8 +55,8 @@ End users of Galaxy TV+ are individuals worldwide seeking high-quality entertain
 End users prioritize seamless access to a diverse range of original and exclusive content, a user-friendly interface across devices, and high-quality streaming experiences. They expect engaging storytelling, innovative features, and seamless integration with Galaxy devices and services.
  
 ### 3.3 Stakeholders
-- **Focus Groups:** Groups of viwers providing feedback on content preferences, user interface design, and overall viwer experience.
-- **Accessibility Advocates:** Organizations or individuals advocating for accessible design and features for viwer with disabilities.
+- **Viewer Panels:** Groups of viwers providing feedback on content preferences, user interface design, and overall viwer experience.
+- **Customer Support teams:** Teams dedicated to providing assistance to users experiencing issues with the service, whether technical or related to account management.
 - **Privacy Advocates:** Groups ensuring viwer data protection and privacy considerations in content recommendation algorithms and viwer profiling.
  
 ## 4. Development Team
