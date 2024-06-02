@@ -44,8 +44,7 @@
   - ### **1.3 Intended Use**
      Galaxy TV+ is intended to provide users with access to a diverse library of exclusive movies, TV shows, 
      documentaries, and original content produced or acquired by Galaxy Inc. Users can subscribe to the service to stream 
-     content on various devices, including Galaxy devices such as iPhone, iPad, Mac, Galaxy TV, and select smart TVs.
- 
+     content on various devices, including devices such as iPhone, iPad and Android smartphones.
    - ### **1.4 Scope**
         The scope of this product includes the development of a robust database and an intuitive interface to facilitate 
  easy user interaction. Users will be able to subscribe to various plans offered by the service, granting them access to a 
@@ -89,8 +88,8 @@
       content and create child-friendly profiles.
       - Search and Filtering: Viwers can search for specific titles, actors, or genres, and filter content
       based on criteria such as release year and ratings.
-      - Cross-Platform Access: Galaxy TV+ is accessible on various devices, including iPhone, iPad,
-      Mac, Galaxy TV, and selected smart TVs, ensuring seamless streaming across different platforms.
+      - Cross-Platform Access: Galaxy TV+ is accessible on various devices, including iPhone, iPad
+      and Android smartphones, ensuring seamless streaming across different platforms.
  
    -  ### 2.3 **Subscriber Classes and Characteristics**
       - Subscribers: viwers who subscribe to Galaxy TV+ to access the content and features
@@ -113,16 +112,13 @@
           schedules and data sharing.
  
    -  ### **2.4 Operating Environment**
-        - Galaxy Devices: Compatible with iPhone, iPad, iPod Touch, and Galaxy TV running iOS 13 or
-        later, iPadOS 13 or later, and tvOS 13 or later.
-        - Smart TVs: Samsung, LG, Sony, and Vizio, with compatible models released in 2018 or later.
-        - Android Devices: Android 5.0 or later (through the Galaxy TV app on the Google Play Store).
-        - macOS: macOS Catalina (10.15) or later versions.
+        - Galaxy TV+ supports a wide range of devices, including:
+          - iPhones and iPads: Compatible with iOS devices running iOS 13 or later versions.
+          - Android Smartphones: Compatible with smartphones running Android 5.0 or later versions
    -  ### **2.5 Design and Implementation Constraints**
         These are the limitations and guidelines that need to be considered during the development of Galaxy
         TV+. Some of the design and implementation constraints are:
-        - Platform Compatibility: Ensure compatibility with iOS, iPadOS, macOS, and tvOS platforms,
-        following Galaxy's design guidelines.
+        - Platform Compatibility: Ensure compatibility with iOS and Android platforms, following Galaxy's design guidelines.
         - Data Security: Prioritize user privacy and security, complying with Galaxy's privacy policies
         and GDPR.
         - Server Capacity Management: Manage server capacity and network traffic for optimal
@@ -155,8 +151,7 @@
    -  ### **2.7 Assumptions & Dependencies**
         **Assumptions:**
         - Users of Galaxy TV+ will have reliable internet access to stream content online.
-        - Users will access Galaxy TV+ on compatible devices, such as iPhone, iPad, Mac, Galaxy TV, and
-        select smart TVs.
+        - Users will access Galaxy TV+ on compatible devices, such as iPhone, iPad and Android smartphones.
         - Users will need to create an account and sign in to access Galaxy TV+ content, with
         appropriate authentication mechanisms in place.
         - Galaxy TV+ will have the necessary licenses and agreements in place to make content
@@ -228,8 +223,8 @@
  
    -  ### **4.2 Hardware Interface Requirements**
  
-      - **Display:** Galaxy TV+ shall support video playback on a range of devices, including smart TVs,
-        smartphones, tablets, and computers, optimizing the viewing experience for different display
+      - **Display:** Galaxy TV+ shall support video playback on a range of devices like
+        smartphones, tablets optimizing the viewing experience for different display
         sizes and resolutions.
       - **Audio:** The service shall support stereo and surround sound audio playback, adapting to the
         capabilities of the user's device. It shall also ensure compatibility with various audio codecs
@@ -243,17 +238,15 @@
      
    -  ### **4.3 Software Interface Requirements**
      
-      - **Operating System:** Galaxy TV+ shall support major operating systems, including iOS, iPadOS,
-        macOS, and tvOS, ensuring compatibility with Galaxy devices. It shall provide system
+      - **Operating System:** Galaxy TV+ shall support major operating systems, including iOS, iPadOS and
+        Android ensuring compatibility with all supported devices. It shall provide system
         requirements for optimal performance on each supported platform.
-      - **Web Browser:** The service shall offer compatibility with popular web browsers such as Safari,
-        Chrome, Firefox, and Edge, providing guidelines for optimal playback and security settings.
       - **Content Delivery** Network (CDN): Galaxy TV+ shall utilize a robust Content Delivery Network
         (CDN) to ensure fast and reliable content delivery to users worldwide, optimizing streaming
         performance.
       - **Payment Gateway:** The app shall integrate with a secure payment gateway to process
         subscription payments and transactions. It shall support various payment methods, including
-        credit cards, Galaxy Pay, and other online payment systems.
+        credit cards, and other online payment systems.
  
    -  ### **4.4 Communication Interface Requirements**
  
