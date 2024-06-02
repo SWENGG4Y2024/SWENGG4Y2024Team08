@@ -107,9 +107,7 @@
           - Content Providers: They may have specific contractual requirements and business goals
           related to licensing their content to Galaxy TV+, such as maximizing revenue and protecting
           their brand image.
-          - Business Partners: They may have technical requirements related to integrating their
-          systems with Galaxy TV+'s platform, as well as contractual requirements related to payment
-          schedules and data sharing.
+          
  
    -  ### **2.4 Operating Environment**
         - Galaxy TV+ supports a wide range of devices, including:
