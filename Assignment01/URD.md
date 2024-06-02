@@ -32,12 +32,19 @@ Here is a list of **Client / Product Owner, End Users, Development Team, Quality
 - Foster effective communication throughout the project.
  
  2.2 **End Users ( Interests / Needs )**
- 
+ **Viewers:**
 - Seamless access to a diverse range of original and exclusive content.
 - User-friendly interface across devices.
 - High-quality streaming experiences.
 - Engaging storytelling and innovative features.
 - Seamless integration with Galaxy devices and services.
+
+ **Admins:**
+- Manage user accounts and subscriptions
+- Manage content overall running in the app
+- Verify and filter content based on their genre
+- Monitor and manage feedbacks and perform analysis on its improvements.
+- Provide the analysis reports and improvement steps to the development team 
  
  2.3 **Development Team ( Interests / Goals )**
  
@@ -58,18 +65,12 @@ Here is a list of **Client / Product Owner, End Users, Development Team, Quality
 - Enhance brand value and generate revenue.
 - Maintain market competitiveness and grow subscriber base.
 - Ensure effective content acquisition and strategic partnerships.
+
+2.6 **External Partners / Vendors ( Interests / Concerns )**
  
-2.6 **Stakeholders ( Interests / Collaboration )**
- 
-- Foster successful collaborations with Galaxy.
-- Deliver high-quality content and services.
-- Achieve mutual business objectives.
- 
-2.7 **Stakeholders ( Interests / Collaboration)**
- 
-- Foster successful collaborations with Galaxy.
-- Deliver high-quality content and services.
-- Achieve mutual business objectives.
+- Provide original content exclusive for Galaxy TV+
+- Provide resouces and technology support for all Galaxy TV+ operations
+- Offer promotional materials enhacing the advertising and attracting subscribers.
  
 ## 3. System Requirements
  
@@ -104,7 +105,7 @@ Non-functional requirements specify the quality attributes of the Galaxy TV+ ser
 ## 4. Assumptions and Constraints
  
 - **Content Licensing**: The availability of content on Galaxy TV+ may be subject to licensing agreements with content providers.
-- **Internet Connectivity**: viewer must have a stable internet connection to stream content on Galaxy TV+.
+- **Internet Connectivity**: Viewer must have a stable internet connection to stream content on Galaxy TV+.
 - **Device Compatibility**: Some features may only be available on certain Galaxy devices or software versions.
  
 ## 5. Glossary
