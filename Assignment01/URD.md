@@ -104,7 +104,7 @@ Non-functional requirements specify the quality attributes of the Galaxy TV+ ser
 ## 4. Assumptions and Constraints
  
 - **Content Licensing**: The availability of content on Galaxy TV+ may be subject to licensing agreements with content providers.
-- **Internet Connectivity**: Viwer must have a stable internet connection to stream content on Galaxy TV+.
+- **Internet Connectivity**: viewer must have a stable internet connection to stream content on Galaxy TV+.
 - **Device Compatibility**: Some features may only be available on certain Galaxy devices or software versions.
  
 ## 5. Glossary
