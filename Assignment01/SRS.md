@@ -113,8 +113,12 @@
  
    -  ### **2.4 Operating Environment**
         - Galaxy TV+ supports a wide range of devices, including:
-          - iPhones and iPads: Compatible with iOS devices running iOS 13 or later versions.
-          - Android Smartphones: Compatible with smartphones running Android 5.0 or later versions
+          - Apple Devices: Compatible with iPhone, iPad, iPod Touch, and Apple TV running iOS 13 or
+        later, iPadOS 13 or later.
+          - Android Devices: Android 5.0 or later.
+          - Smart TVs: Samsung, LG, Sony, and Vizio, with compatible models released in 2018 or later.
+          - macOS: macOS Catalina (10.15) or later versions.
+    
    -  ### **2.5 Design and Implementation Constraints**
         These are the limitations and guidelines that need to be considered during the development of Galaxy
         TV+. Some of the design and implementation constraints are:
@@ -246,7 +250,7 @@
         performance.
       - **Payment Gateway:** The app shall integrate with a secure payment gateway to process
         subscription payments and transactions. It shall support various payment methods, including
-        credit cards, and other online payment systems.
+        credit cards, Paytm and other online payment systems.
  
    -  ### **4.4 Communication Interface Requirements**
  
