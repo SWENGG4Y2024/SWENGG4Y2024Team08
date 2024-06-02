@@ -33,7 +33,7 @@
 ## 1. Introduction
  
    - ### **1.1 Purpose**
-        The purpose of this document is to provide a comprehensive overview of the requirements for the development of "Galaxy TV+," a streaming service offered by Galaxy Inc. This document serves as a reference for stakeholders involved in the development process and outlines the functional and non-functional requirements of the system.
+        The purpose of this document is to provide a comprehensive overview of the requirements for the development of "Galaxy TV+," a streaming service responsive in approximately 3 seconds for the viewers offered by Galaxy Inc. This document serves as a reference for stakeholders involved in the development process and outlines the functional and non-functional requirements of the system.
 
    - ### **1.2 Intended Audience**
      The intended audience for Galaxy TV+ includes stakeholders such as developers, designers, project managers, and 
@@ -85,7 +85,7 @@
       - Continuous Playback: The service automatically plays the next episode of a TV series,
       facilitating binge-watching sessions for Viwers.
       - Parental Controls: Galaxy TV+ offers parental controls to restrict access to age-inappropriate
-      content and create child-friendly profiles.
+      content and create child-friendly profiles. Content should be restricted and based on age ratings (G, PG, PG-13, R, etc.
       - Search and Filtering: Viwers can search for specific titles, actors, or genres, and filter content
       based on criteria such as release year and ratings.
       - Cross-Platform Access: Galaxy TV+ is accessible on various devices, including iPhone, iPad
