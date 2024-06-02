@@ -111,11 +111,9 @@
  
    -  ### **2.4 Operating Environment**
         - Galaxy TV+ supports a wide range of devices, including:
-          - Apple Devices: Compatible with iPhone, iPad, iPod Touch, and Apple TV running iOS 13 or
+          - Apple Devices: Compatible with iPhone, iPad running iOS 13 or
         later, iPadOS 13 or later.
           - Android Devices: Android 5.0 or later.
-          - Smart TVs: Samsung, LG, Sony, and Vizio, with compatible models released in 2018 or later.
-          - macOS: macOS Catalina (10.15) or later versions.
     
    -  ### **2.5 Design and Implementation Constraints**
         These are the limitations and guidelines that need to be considered during the development of Galaxy
