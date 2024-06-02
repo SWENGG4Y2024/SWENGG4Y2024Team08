@@ -49,7 +49,7 @@ The client's primary interest lies in delivering a streaming service that meets 
 ## 3. End Users
  
 ### 3.1 Description
-End users of Galaxy TV+ are individuals worldwide seeking high-quality entertainment content accessible through the Galaxy ecosystem.
+End users of Galaxy TV+ are individuals worldwide irrespective of their age seeking high-quality entertainment content accessible through the Galaxy ecosystem.
  
 ### 3.2 Interests / Needs
 End users prioritize seamless access to a diverse range of original and exclusive content, a user-friendly interface across devices, and high-quality streaming experiences. They expect engaging storytelling, innovative features, and seamless integration with Galaxy devices and services.
@@ -57,6 +57,7 @@ End users prioritize seamless access to a diverse range of original and exclusiv
 ### 3.3 Stakeholders
 - **Viewer Panels:** Groups of viwers providing feedback on content preferences, user interface design, and overall viwer experience.
 - **Customer Support teams:** Teams dedicated to providing assistance to users experiencing issues with the service, whether technical or related to account management.
+- **Admin:** Groups managing user accounts, feedbacks, next advancements or improvements and monitoring the overall functioning or performance of the application.
 - **Privacy Advocates:** Groups ensuring viwer data protection and privacy considerations in content recommendation algorithms and viwer profiling.
  
 ## 4. Development Team
