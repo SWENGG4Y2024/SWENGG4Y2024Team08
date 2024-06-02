@@ -32,6 +32,8 @@ Here is a list of **Client / Product Owner, End Users, Development Team, Quality
 - Foster effective communication throughout the project.
  
  2.2 **End Users ( Interests / Needs )**
+
+ 
  **Viewers:**
 - Seamless access to a diverse range of original and exclusive content.
 - User-friendly interface across devices.
