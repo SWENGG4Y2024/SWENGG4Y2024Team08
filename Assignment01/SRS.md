@@ -33,18 +33,18 @@
 ## 1. Introduction
  
    - ### **1.1 Purpose**
-        The purpose of this document is to provide a comprehensive overview of the requirements for the development of "Apple TV+," a streaming service offered by Apple Inc. This document serves as a reference for stakeholders involved in the development process and outlines the functional and non-functional requirements of the system.
+        The purpose of this document is to provide a comprehensive overview of the requirements for the development of "Galaxy TV+," a streaming service offered by Galaxy Inc. This document serves as a reference for stakeholders involved in the development process and outlines the functional and non-functional requirements of the system.
 
    - ### **1.2 Intended Audience**
-     The intended audience for Apple TV+ includes stakeholders such as developers, designers, project managers, and 
+     The intended audience for Galaxy TV+ includes stakeholders such as developers, designers, project managers, and 
  quality assurance teams involved in the development and deployment of the streaming service. Additionally, this document 
  is relevant for executives, investors, and other decision-makers responsible for overseeing the project's progress and 
  ensuring alignment with business goals.
        
   - ### **1.3 Intended Use**
-     Apple TV+ is intended to provide users with access to a diverse library of exclusive movies, TV shows, 
-     documentaries, and original content produced or acquired by Apple Inc. Users can subscribe to the service to stream 
-     content on various devices, including Apple devices such as iPhone, iPad, Mac, Apple TV, and select smart TVs.
+     Galaxy TV+ is intended to provide users with access to a diverse library of exclusive movies, TV shows, 
+     documentaries, and original content produced or acquired by Galaxy Inc. Users can subscribe to the service to stream 
+     content on various devices, including Galaxy devices such as iPhone, iPad, Mac, Galaxy TV, and select smart TVs.
  
    - ### **1.4 Scope**
         The scope of this product includes the development of a robust database and an intuitive interface to facilitate 
@@ -57,47 +57,47 @@
    - ### **1.5 Definitions, Acronyms, and Abbreviations**
         Conventions        | Definition
         -----------        | -----------
-        Subscription       | An arrangement where potential subscriber pay a fee in advance to access the content and features offered by Apple TV+, typically on a recurring basis.
+        Subscription       | An arrangement where potential subscriber pay a fee in advance to access the content and features offered by Galaxy TV+, typically on a recurring basis.
         Rating             | A classification or ranking based on a comparative assessment of their quality, standard, or performance, often used to categorize and recommend content to subscribers based on their preferences.
-        Account            | An identity associated with the Apple TV+ service, typically created by Subscribers through registration or sign-up processes. subcribers can manage their account settings, preferences, and subscription details through their Apple ID.
-        Categories         | Classification of different types of content available on the Apple TV+ platform, organizing movies, TV shows, and other media into distinct genres or themes to facilitate browsing and discovery.
-        Offline Mode       | A feature that allows users to download select content from Apple TV+ for offline viewing, enabling them to enjoy movies and TV shows without an internet connection, often used for convenience during travel or limited connectivity situations.
-        Download           | The process of transferring data from the Apple TV+ platform to a siubscribers device for offline viewing, typically involving the storage of media files locally on the device.
-        Subscribe          | The action of signing up for a subscription plan offered by Apple TV+, granting subscribers access to exclusive content and features in exchange for a recurring fee paid in advance.
+        Account            | An identity associated with the Galaxy TV+ service, typically created by Subscribers through registration or sign-up processes. subcribers can manage their account settings, preferences, and subscription details through their Galaxy ID.
+        Categories         | Classification of different types of content available on the Galaxy TV+ platform, organizing movies, TV shows, and other media into distinct genres or themes to facilitate browsing and discovery.
+        Offline Mode       | A feature that allows users to download select content from Galaxy TV+ for offline viewing, enabling them to enjoy movies and TV shows without an internet connection, often used for convenience during travel or limited connectivity situations.
+        Download           | The process of transferring data from the Galaxy TV+ platform to a subscribers device for offline viewing, typically involving the storage of media files locally on the device.
+        Subscribe          | The action of signing up for a subscription plan offered by Galaxy TV+, granting subscribers access to exclusive content and features in exchange for a recurring fee paid in advance.
  
 ##  **2. Overall Description**
  
    - ### **2.1 Product Perspective**
-        Apple TV+ is positioned as a premium streaming service offering exclusive content produced or
-        acquired by Apple Inc. The service aims to compete with other streaming platforms by providing a
+        Galaxy TV+ is positioned as a premium streaming service offering exclusive content produced or
+        acquired by Galaxy Inc. The service aims to compete with other streaming platforms by providing a
         curated selection of high-quality movies, TV shows, and documentaries, available for streaming on
         various devices.
  
  
    -  ### **2.2 Product Features**
-      - Content Library: Apple TV+ offers a diverse collection of exclusive movies, TV shows,
-      documentaries, and original content produced or acquired by Apple Inc.
+      - Content Library: Galaxy TV+ offers a diverse collection of exclusive movies, TV shows,
+      documentaries, and original content produced or acquired by Galaxy Inc.
       - Personalized Recommendations: The service uses algorithms to provide personalized
       recommendations to users based on their viewing history, preferences, and ratings.
       - Multiple Profiles: subscribers can create multiple profiles under one account, allowing for
       personalized viewing history, recommendations, and watchlists for each Viwer.
-      - Offline Viewing: Apple TV+ allows Viwers to download selected content for offline viewing,
+      - Offline Viewing: Galaxy TV+ allows Viwers to download selected content for offline viewing,
       enabling them to watch movies and TV shows without an internet connection.
       - Continuous Playback: The service automatically plays the next episode of a TV series,
       facilitating binge-watching sessions for Viwers.
-      - Parental Controls: Apple TV+ offers parental controls to restrict access to age-inappropriate
+      - Parental Controls: Galaxy TV+ offers parental controls to restrict access to age-inappropriate
       content and create child-friendly profiles.
       - Search and Filtering: Viwers can search for specific titles, actors, or genres, and filter content
       based on criteria such as release year and ratings.
-      - Cross-Platform Access: Apple TV+ is accessible on various devices, including iPhone, iPad,
-      Mac, Apple TV, and selected smart TVs, ensuring seamless streaming across different platforms.
+      - Cross-Platform Access: Galaxy TV+ is accessible on various devices, including iPhone, iPad,
+      Mac, Galaxy TV, and selected smart TVs, ensuring seamless streaming across different platforms.
  
    -  ### 2.3 **Subscriber Classes and Characteristics**
-      - Subscribers: viwers who subscribe to Apple TV+ to access the content and features
+      - Subscribers: viwers who subscribe to Galaxy TV+ to access the content and features
       offered by the service.
       - Content Creators: Individuals or companies responsible for creating the content available on
-      Apple TV+, including movies, TV shows, documentaries, and original programming.
-      - Content Providers: Companies that license content to Apple TV+ for streaming on the
+      Galaxy TV+, including movies, TV shows, documentaries, and original programming.
+      - Content Providers: Companies that license content to Galaxy TV+ for streaming on the
       platform, such as movie studios, TV networks, and production companies.
  
         **characteristics of these subscriber classes could include:**
@@ -106,80 +106,80 @@
           quality, as well as a desire to protect their intellectual property rights and control how
           their content is distributed.
           - Content Providers: They may have specific contractual requirements and business goals
-          related to licensing their content to Apple TV+, such as maximizing revenue and protecting
+          related to licensing their content to Galaxy TV+, such as maximizing revenue and protecting
           their brand image.
           - Business Partners: They may have technical requirements related to integrating their
-          systems with Apple TV+'s platform, as well as contractual requirements related to payment
+          systems with Galaxy TV+'s platform, as well as contractual requirements related to payment
           schedules and data sharing.
  
    -  ### **2.4 Operating Environment**
-        - Apple Devices: Compatible with iPhone, iPad, iPod Touch, and Apple TV running iOS 13 or
+        - Galaxy Devices: Compatible with iPhone, iPad, iPod Touch, and Galaxy TV running iOS 13 or
         later, iPadOS 13 or later, and tvOS 13 or later.
         - Smart TVs: Samsung, LG, Sony, and Vizio, with compatible models released in 2018 or later.
-        - Android Devices: Android 5.0 or later (through the Apple TV app on the Google Play Store).
+        - Android Devices: Android 5.0 or later (through the Galaxy TV app on the Google Play Store).
         - macOS: macOS Catalina (10.15) or later versions.
    -  ### **2.5 Design and Implementation Constraints**
-        These are the limitations and guidelines that need to be considered during the development of Apple
+        These are the limitations and guidelines that need to be considered during the development of Galaxy
         TV+. Some of the design and implementation constraints are:
         - Platform Compatibility: Ensure compatibility with iOS, iPadOS, macOS, and tvOS platforms,
-        following Apple's design guidelines.
-        - Data Security: Prioritize user privacy and security, complying with Apple's privacy policies
+        following Galaxy's design guidelines.
+        - Data Security: Prioritize user privacy and security, complying with Galaxy's privacy policies
         and GDPR.
         - Server Capacity Management: Manage server capacity and network traffic for optimal
         performance and scalability to accommodate a large number of concurrent Viwers
         - Privacy Protection: The service must adhere to privacy regulations and data protection
         standards to safeguard user data and ensure compliance with legal requirements.
-        - User Interface Consistency: Maintain a consistent and intuitive interface following Apple's
+        - User Interface Consistency: Maintain a consistent and intuitive interface following Galaxy's
         Human Interface Guidelines.
-        - API Integration: Integrate with Apple services and third-party APIs, adhering to privacy and
+        - API Integration: Integrate with Galaxy services and third-party APIs, adhering to privacy and
         security guidelines.
         - Localization: Support multiple languages and regions, complying with regional content
         regulations.
-        - Content Compliance: Adhere to Apple's content guidelines and implement parental controls.
+        - Content Compliance: Adhere to Galaxy's content guidelines and implement parental controls.
  
  
    -  ### **2.6 User Documentation**
-        User documentation for Apple TV+ includes a range of materials that are designed to help users
+        User documentation for Galaxy TV+ includes a range of materials that are designed to help users
         understand how to use and get the most out of their application. Some of them are as
         follows:
-        - Getting Started Guide: An introductory guide on how to access and navigate the Apple TV+
+        - Getting Started Guide: An introductory guide on how to access and navigate the Galaxy TV+
         app on various devices.
-        - Account Setup: Instructions for creating or signing in to an Apple ID and subscribing to Apple
+        - Account Setup: Instructions for creating or signing in to an Galaxy ID and subscribing to Galaxy
         TV+.
         - Troubleshooting: Common issues and solutions for technical problems, such as playback
         errors or account issues.
-        - Privacy and Security: Guidelines on how Apple protects user privacy and security while using
-        Apple TV+.
+        - Privacy and Security: Guidelines on how Galaxy protects user privacy and security while using
+        Galaxy TV+.
         - Help Desk: Our chatbot is available 24/7 to provide you with instant support. For complex issues that require human intervention, our live chat and email support are available during business hours.
  
    -  ### **2.7 Assumptions & Dependencies**
         **Assumptions:**
-        - Users of Apple TV+ will have reliable internet access to stream content online.
-        - Users will access Apple TV+ on compatible devices, such as iPhone, iPad, Mac, Apple TV, and
+        - Users of Galaxy TV+ will have reliable internet access to stream content online.
+        - Users will access Galaxy TV+ on compatible devices, such as iPhone, iPad, Mac, Galaxy TV, and
         select smart TVs.
-        - Users will need to create an account and sign in to access Apple TV+ content, with
+        - Users will need to create an account and sign in to access Galaxy TV+ content, with
         appropriate authentication mechanisms in place.
-        - Apple TV+ will have the necessary licenses and agreements in place to make content
+        - Galaxy TV+ will have the necessary licenses and agreements in place to make content
         available for streaming in target regions.
-        - Apple TV+ will have secure payment processing mechanisms in place for users to subscribe
+        - Galaxy TV+ will have secure payment processing mechanisms in place for users to subscribe
         to the service and make payments for subscription fees.
-        - Content on Apple TV+ will be properly categorized and tagged for easy search and discovery
+        - Content on Galaxy TV+ will be properly categorized and tagged for easy search and discovery
         by users.
-        - Content on Apple TV+ will meet certain quality standards, including resolution, audio quality,
+        - Content on Galaxy TV+ will meet certain quality standards, including resolution, audio quality,
         and subtitle availability, to ensure a satisfactory user experience.
         Dependencies:
-        - Apple TV+ may depend on third-party APIs for secure payment processing and efficient
+        - Galaxy TV+ may depend on third-party APIs for secure payment processing and efficient
         content delivery.
-        - Apple TV+ may depend on content licensing agreements with studios, production
+        - Galaxy TV+ may depend on content licensing agreements with studios, production
         companies, and other content providers to legally stream their content on the platform.
-        - Apple TV+ may be subject to regional regulations and compliance requirements, such as
+        - Galaxy TV+ may be subject to regional regulations and compliance requirements, such as
         content censorship laws, which may impact the availability of certain content in specific regions.
-        - Apple TV+ may depend on reliable and scalable technology infrastructure, including servers,
+        - Galaxy TV+ may depend on reliable and scalable technology infrastructure, including servers,
         databases, and networking components, to support its streaming service and handle the large
         volume of user requests
-        - Apple TV+ may depend on users' devices to meet certain technical requirements, such as
+        - Galaxy TV+ may depend on users' devices to meet certain technical requirements, such as
         screen size, resolution, and audio capabilities, to ensure an optimal viewing experience.
-        - Apple TV+ may depend on reliable internet service providers to ensure that users have
+        - Galaxy TV+ may depend on reliable internet service providers to ensure that users have
         sufficient bandwidth and network stability to stream content seamlessly
  
 ## 3. System Features
@@ -210,7 +210,7 @@
  
    - ### **4.1 User Interface Requirements**
  
-      - **Home Page:** The home page of the Apple TV+ app shall feature curated collections of
+      - **Home Page:** The home page of the Galaxy TV+ app shall feature curated collections of
         recommended movies and TV shows based on the user's preferences and viewing history. It
         shall include a prominent search bar for users to easily find specific content.
       - **Content Details Page:** Each movie or TV show's details page shall present essential
@@ -223,50 +223,50 @@
         stop, rewind, and fast-forward. Additionally, it shall feature a volume slider and a full-screen
         mode for an immersive viewing experience.
       - **Subscription Plans:** Users shall be able to explore and select from various subscription plans
-        offered by Apple TV+, each presenting its benefits and pricing details.
+        offered by Galaxy TV+, each presenting its benefits and pricing details.
  
  
    -  ### **4.2 Hardware Interface Requirements**
  
-      - **Display:** Apple TV+ shall support video playback on a range of devices, including smart TVs,
+      - **Display:** Galaxy TV+ shall support video playback on a range of devices, including smart TVs,
         smartphones, tablets, and computers, optimizing the viewing experience for different display
         sizes and resolutions.
       - **Audio:** The service shall support stereo and surround sound audio playback, adapting to the
         capabilities of the user's device. It shall also ensure compatibility with various audio codecs
         for seamless audio playback.
-      - **Network:** Apple TV+ shall require an internet connection with a minimum bandwidth of 5
+      - **Network:** Galaxy TV+ shall require an internet connection with a minimum bandwidth of 5
         Mbps for standard definition (SD) playback and 25 Mbps for high definition (HD) playback. It
         shall support Wi-Fi and cellular data networks for flexible accessibility.
       - **Storage:** The app shall not rely on local storage for content playback, streaming all movies
-        and TV shows directly from Apple's servers. However, users may have the option to
+        and TV shows directly from Galaxy's servers. However, users may have the option to
         download content for offline viewing, requiring sufficient storage capacity on their device.
      
    -  ### **4.3 Software Interface Requirements**
      
-      - **Operating System:** Apple TV+ shall support major operating systems, including iOS, iPadOS,
-        macOS, and tvOS, ensuring compatibility with Apple devices. It shall provide system
+      - **Operating System:** Galaxy TV+ shall support major operating systems, including iOS, iPadOS,
+        macOS, and tvOS, ensuring compatibility with Galaxy devices. It shall provide system
         requirements for optimal performance on each supported platform.
       - **Web Browser:** The service shall offer compatibility with popular web browsers such as Safari,
         Chrome, Firefox, and Edge, providing guidelines for optimal playback and security settings.
-      - **Content Delivery** Network (CDN): Apple TV+ shall utilize a robust Content Delivery Network
+      - **Content Delivery** Network (CDN): Galaxy TV+ shall utilize a robust Content Delivery Network
         (CDN) to ensure fast and reliable content delivery to users worldwide, optimizing streaming
         performance.
       - **Payment Gateway:** The app shall integrate with a secure payment gateway to process
         subscription payments and transactions. It shall support various payment methods, including
-        credit cards, Apple Pay, and other online payment systems.
+        credit cards, Galaxy Pay, and other online payment systems.
  
    -  ### **4.4 Communication Interface Requirements**
  
-      - **API:** Apple TV+ shall offer an API (Application Programming Interface) for third-party
+      - **API:** Galaxy TV+ shall offer an API (Application Programming Interface) for third-party
         developers to integrate its service into their applications, providing access to its content
         catalog and user data.
       - **Social Media Integration:** The app shall seamlessly integrate with popular social media
         platforms like Facebook, Twitter, and Instagram, enabling users to share their favourite
         content with friends and followers.
-      - **Customer Support:** Apple TV+ shall provide comprehensive customer support through
+      - **Customer Support:** Galaxy TV+ shall provide comprehensive customer support through
         multiple channels, including email, phone, and live chat. It shall also offer an extensive FAQ
         section and community forums for user assistance.
-      - **Content Providers:** Apple TV+ shall establish partnerships and licensing agreements with
+      - **Content Providers:** Galaxy TV+ shall establish partnerships and licensing agreements with
         content providers, including renowned studios and production companies, ensuring a diverse
         and high-quality content library. Compliance with copyright laws and proper content
         licensing shall be maintained at all times.
