@@ -55,10 +55,10 @@ End users of Galaxy TV+ are individuals worldwide irrespective of their age seek
 End users prioritize seamless access to a diverse range of original and exclusive content, a user-friendly interface across devices, and high-quality streaming experiences. They expect engaging storytelling, innovative features, and seamless integration with Galaxy devices and services.
  
 ### 3.3 Stakeholders
-- **Viewer Panels:** Groups of viwers providing feedback on content preferences, user interface design, and overall viwer experience.
+- **Viewer Panels:** Groups of viewers providing feedback on content preferences, user interface design, and overall viewer experience.
 - **Customer Support teams:** Teams dedicated to providing assistance to users experiencing issues with the service, whether technical or related to account management.
 - **Admin:** Groups managing user accounts, feedbacks, next advancements or improvements and monitoring the overall functioning or performance of the application.
-- **Privacy Advocates:** Groups ensuring viwer data protection and privacy considerations in content recommendation algorithms and viwer profiling.
+- **Privacy Advocates:** Groups ensuring viewer data protection and privacy considerations in content recommendation algorithms and viewer profiling.
  
 ## 4. Development Team
  
@@ -66,11 +66,11 @@ End users prioritize seamless access to a diverse range of original and exclusiv
 The development team comprises software engineers, designers, and content creators responsible for creating and maintaining Galaxy TV+ content and platform.
  
 ### 4.2 Interests / Goals
-The development team aims to produce compelling original content, enhance platform features, and optimize viwer experience across devices. They prioritize collaboration, innovation, and continuous improvement to meet user expectations and maintain Galaxy's reputation for excellence.
+The development team aims to produce compelling original content, enhance platform features, and optimize viewer experience across devices. They prioritize collaboration, innovation, and continuous improvement to meet viewer expectations and maintain Galaxy's reputation for excellence.
  
 ### 4.3 Stakeholders
 - **Content Creators:** Writers, directors, producers, and artists creating original content for Galaxy TV+, contributing to the platform's unique offerings.
-- **User Experience (UX) Researchers:** Professionals conducting viwer research and usability testing to inform design decisions and improve viwer satisfaction.
+- **User Experience (UX) Researchers:** Professionals conducting viewer research and usability testing to inform design decisions and improve viewer satisfaction.
 - **Technology Partners:** Companies providing streaming technology, cloud infrastructure, and other technical solutions to support Galaxy TV+ operations.
  
 ## 5. Quality Assurance (QA) Team
@@ -79,7 +79,7 @@ The development team aims to produce compelling original content, enhance platfo
 The QA team ensures the quality, reliability, and performance of Galaxy TV+ content and platform through rigorous testing and validation processes.
  
 ### 5.2 Interests / Objectives
-The QA team's objective is to identify and address any issues or defects in content delivery, streaming quality, and viwer experience. They strive to maintain high-quality standards, enhance platform reliability, and ensure customer satisfaction.
+The QA team's objective is to identify and address any issues or defects in content delivery, streaming quality, and viewer experience. They strive to maintain high-quality standards, enhance platform reliability, and ensure customer satisfaction.
  
 ### 5.3 Stakeholders
 - **Beta Testers:** Early adopters and enthusiasts participating in beta testing programs to identify bugs, provide feedback, and improve overall product quality.
@@ -105,7 +105,7 @@ Management is interested in ensuring Galaxy TV+ aligns with Galaxy's broader bus
 External partners and vendors collaborate with Galaxy to provide content, technology, and services for Galaxy TV+.
  
 ### 7.2 Interests / Collaboration
-External partners aim to foster successful collaborations with Galaxy, deliver high-quality content and services, and achieve mutual business objectives. They contribute expertise, resources, and creativity to enhance Galaxy TV+ offerings and viwer experience.
+External partners aim to foster successful collaborations with Galaxy, deliver high-quality content and services, and achieve mutual business objectives. They contribute expertise, resources, and creativity to enhance Galaxy TV+ offerings and viewer experience.
  
 ### 7.3 Stakeholders
 - **Content Production Studios:** Studios producing original content exclusively for Galaxy TV+, including movies, series, documentaries, and other programming.
