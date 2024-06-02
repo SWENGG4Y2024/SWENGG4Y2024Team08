@@ -92,7 +92,7 @@
       and Android smartphones, ensuring seamless streaming across different platforms.
  
    -  ### 2.3 **Subscriber Classes and Characteristics**
-      - Subscribers: viwers who subscribe to Galaxy TV+ to access the content and features
+      - Subscribers: viewers who subscribe to Galaxy TV+ to access the content and features
       offered by the service.
       - Content Creators: Individuals or companies responsible for creating the content available on
       Galaxy TV+, including movies, TV shows, documentaries, and original programming.
